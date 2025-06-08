@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>United Kingdom Menu</title>
+    <link href="../CSS/countrymenu.css" rel="stylesheet">
+    <style>
+        body {
+            background-image: url("../IMG/countrysmenu/UK/this-day-in-history-05-31-1859-big-ben-in-london.png");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body onmouseenter="playHoverSoundUK()" onmouseleave="stopHoverSoundUK()">
+    <audio id="UKHover" src="../Audio/UKHover.mp3" preload="auto"></audio>
+
+    <div class="contenedor">
+        <a href="../HTML/UKWW1.html" target="_blank">
+            <img src="../IMG/countrysmenu/UK/UKWW1.png" alt="UK WW1">
+        </a>
+        <a href="../HTML/UKWW2.html" target="_blank">
+            <img src="../IMG/countrysmenu/UK/UKWW2.png" alt="UK WW2">
+        </a>
+        <a href="../HTML/UKCW.html" target="_blank">
+            <img src="../IMG/countrysmenu/UK/UKCW (1).png" alt="UK Cold War">
+        </a>
+        <a href="../HTML/UKMV.html" target="_blank">
+            <img src="../IMG/countrysmenu/UK/UKMD.png" alt="UK Modern">
+        </a>
+    </div>
+
+    <div class="bordeyear">
+        <div class="year">1914–2025</div>
+    </div>
+
+    <script src="../JS/Audio.js"></script>
+</body>
+</html>

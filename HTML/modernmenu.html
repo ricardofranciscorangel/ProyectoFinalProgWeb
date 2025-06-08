@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Menu</title>
+    <link href="../CSS/eramenus.css" rel="stylesheet">
+    <style>
+        body {
+            background-image: url("../IMG/modern/modernmenu/modernmenuback.jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body onmouseenter="playHoverSoundModern()" onmouseleave="stopHoverSoundModern()">
+    <audio id="ModernHover" src="../Audio/ModernHover.mp3" preload="auto"></audio>
+
+    <div class="contenedor">
+        <a href="../HTML/FranceMV.html" target="_blank">
+            <img src="../IMG/modern/modernmenu/France (1).png" alt="France Modern">
+        </a>
+        <a href="../HTML/GermanyMVP.html" target="_blank">
+            <img src="../IMG/modern/modernmenu/GermanyModern.png" alt="Germany Modern">
+        </a>
+        <a href="../HTML/RussiaMV.html" target="_blank">
+            <img src="../IMG/modern/modernmenu/RUSSIAN FEDERATION.png" alt="Russia Modern">
+        </a>
+        <a href="../HTML/USAMV.html" target="_blank">
+            <img src="../IMG/modern/modernmenu/USAModern.png" alt="USA Modern">
+        </a>
+        <a href="../HTML/JapanMV.html" target="_blank">
+            <img src="../IMG/modern/modernmenu/JapanModern.png" alt="Japan Modern">
+        </a>
+        <!-- Solo deja una imagen de Alemania -->
+        <!-- <a><img src="../IMG/modern/modernmenu/GermanyModern (1).png" alt="Germany Modern (Duplicate)"></a> -->
+    </div>
+
+    <div class="bordeyear">
+        <div class="year">1992–2025</div>
+    </div>
+</body>
+</html>

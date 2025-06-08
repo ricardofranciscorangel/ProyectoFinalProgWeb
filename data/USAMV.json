@@ -1,0 +1,132 @@
+[
+    {
+        "id": "m1a2sepv3",
+        "tipo": "tanque",
+        "imagen": "/USAModernIMG/m1a2sepv3.jpg",
+        "nombre": "M1A2 Abrams SEP V3",
+        "descripcion": "Main Battle Tank",
+        "detalles": {
+            "Year": 2017,
+            "Cannon": "120mm M256 smoothbore",
+            "Front Armor": "Composite + DU (classified)",
+            "Max speed": "67km/h"
+        }
+    },
+    {
+        "id": "m1a1abrams",
+        "tipo": "tanque",
+        "imagen": "/USAModernIMG/m1a1abrams.jpg",
+        "nombre": "M1A1 Abrams",
+        "descripcion": "Main Battle Tank",
+        "detalles": {
+            "Year": 1992,
+            "Cannon": "120mm M256 smoothbore",
+            "Front Armor": "Composite + DU (classified)",
+            "Max speed": "67km/h"
+        }
+    },
+    {
+        "id": "m1128mgs",
+        "tipo": "tanque",
+        "imagen": "/USAModernIMG/m1128mgs.jpg",
+        "nombre": "M1128 Mobile Gun System",
+        "descripcion": "Wheeled Tank Destroyer",
+        "detalles": {
+            "Year": 2007,
+            "Cannon": "105mm M68A1E4",
+            "Front Armor": "14.5mm (STANAG 4569 level 3+)",
+            "Max speed": "100km/h"
+        }
+    },
+    {
+        "id": "m2a3bradley",
+        "tipo": "tanque",
+        "imagen": "/USAModernIMG/m2a3bradley.jpg",
+        "nombre": "M2A3 Bradley IFV",
+        "descripcion": "Infantry Fighting Vehicle",
+        "detalles": {
+            "Year": 2000,
+            "Cannon": "25mm M242 Bushmaster",
+            "Front Armor": "600mm (with ERA)",
+            "Max speed": "66km/h"
+        }
+    },
+    {
+        "id": "xm30",
+        "tipo": "tanque",
+        "imagen": "/USAModernIMG/xm30.jpg",
+        "nombre": "XM30",
+        "descripcion": "Next Generation IFV",
+        "detalles": {
+            "Year": 2025,
+            "Cannon": "50mm XM913",
+            "Front Armor": "Classified",
+            "Max speed": "65km/h"
+        }
+    },
+    {
+        "id": "f22raptor",
+        "tipo": "avion",
+        "imagen": "/USAModernIMG/f22raptor.jpg",
+        "nombre": "F-22 Raptor",
+        "descripcion": "Stealth Fighter",
+        "detalles": {
+            "Year": 2005,
+            "Cannon": "20mm M61A2 Vulcan",
+            "Payload": "8,200kg",
+            "Max speed": "2,414km/h"
+        }
+    },
+    {
+        "id": "f35lightningii",
+        "tipo": "avion",
+        "imagen": "/USAModernIMG/f35lightningii.jpg",
+        "nombre": "F-35 Lightning II",
+        "descripcion": "Multirole Stealth Fighter",
+        "detalles": {
+            "Year": 2015,
+            "Cannon": "25mm GAU-22/A",
+            "Payload": "8,160kg",
+            "Max speed": "1,930km/h"
+        }
+    },
+    {
+        "id": "fa18superhornet",
+        "tipo": "avion",
+        "imagen": "/USAModernIMG/fa18superhornet.jpg",
+        "nombre": "F/A-18E/F Super Hornet",
+        "descripcion": "Carrier-Based Multirole Fighter",
+        "detalles": {
+            "Year": 1999,
+            "Cannon": "20mm M61A2 Vulcan",
+            "Payload": "8,050kg",
+            "Max speed": "1,915km/h"
+        }
+    },
+    {
+        "id": "b2spirit",
+        "tipo": "avion",
+        "imagen": "/USAModernIMG/b2spirit.jpg",
+        "nombre": "B-2 Spirit",
+        "descripcion": "Stealth Bomber",
+        "detalles": {
+            "Year": 1997,
+            "Cannon": "None",
+            "Payload": "18,000kg",
+            "Max speed": "1,010km/h"
+        }
+    },
+    {
+        "id": "b21raider",
+        "tipo": "avion",
+        "imagen": "/USAModernIMG/b21raider.jpg",
+        "nombre": "B-21 Raider",
+        "descripcion": "Stealth Bomber",
+        "detalles": {
+            "Year": 2025,
+            "Cannon": "Unknown (stealth bomber)",
+            "Payload": "Classified (approx. 13,600kg)",
+            "Max speed": "Unknown"
+        }
+    }
+]

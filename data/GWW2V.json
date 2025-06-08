@@ -1,0 +1,366 @@
+[
+    {
+        "id": "marder3",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/marder3.jpg",
+        "nombre": "Marder III",
+        "descripcion": "Tank Destroyer",
+        "detalles": {
+            "Year": 1942,
+            "Cannon": "75mm Pak 40",
+            "Front Armor": "50mm",
+            "Max speed": "40km/h"
+        }
+    },
+    {
+        "id": "stug3",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/stug3.jpg",
+        "nombre": "StuG III",
+        "descripcion": "Assault Gun",
+        "detalles": {
+            "Year": 1940,
+            "Cannon": "75mm StuK 37",
+            "Front Armor": "50mm",
+            "Max speed": "40km/h"
+        }
+    },
+    {
+        "id": "sdkfz62",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/sdkfz62.png",
+        "nombre": "Sd.Kfz. 6/2",
+        "descripcion": "Half-Track Anti-Aircraft",
+        "detalles": {
+            "Year": 1940,
+            "Cannon": "37mm Flak 36",
+            "Front Armor": "0mm",
+            "Max speed": "50km/h"
+        }
+    },
+    {
+        "id": "Panzer IIIM",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/PanzerIIIM.jpg",
+        "nombre": "Panzer III M",
+        "descripcion": "Medium Tank",
+        "detalles": {
+            "Year": 1942,
+            "Cannon": "50mm KwK 39",
+            "Front Armor": "53mm",
+            "Max speed": "53km/h"
+        }
+    },
+    {
+        "id": "Panzer IVH",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/PanzerIVH.png",
+        "nombre": "Panzer IV H",
+        "descripcion": "Medium Tank",
+        "detalles": {
+            "Year": 1943,
+            "Cannon": "75mm KwK 40 L48",
+            "Front Armor": "80mm",
+            "Max speed": "40km/h"
+        }
+    },
+    {
+        "id": "puma",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/puma.jpeg",
+        "nombre": "Puma",
+        "descripcion": "Reconnaissance Vehicle",
+        "detalles": {
+            "Year": 1942,
+            "Cannon": "50mm KwK 39/1",
+            "Front Armor": "30mm",
+            "Max speed": "90km/h"
+        }
+    },
+    {
+        "id": "88mmflak36",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/flak36.png",
+        "nombre": "88mm Flak 36",
+        "descripcion": "Anti-Aircraft Gun",
+        "detalles": {
+            "Year": 1939,
+            "Cannon": "88mm Flak 36",
+            "Front Armor": "15mm",
+            "Max speed": "40km/h"
+        }
+    },
+    {
+        "id": "jagdpanzerIV",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/jagdpanzerIV.png",
+        "nombre": "Jagdpanzer IV",
+        "descripcion": "Tank Destroyer",
+        "detalles": {
+            "Year": 1943,
+            "Cannon": "75mm Pak 39 L48",
+            "Front Armor": "60mm",
+            "Max speed": "40km/h"
+        }
+    },
+    {
+        "id": "ostwind",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/ostwind.jpg",
+        "nombre": "Ostwind",
+        "descripcion": "Self-Propelled Anti-Air",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "37mm Flak 43",
+            "Front Armor": "80mm",
+            "Max speed": "39km/h"
+        }
+    },
+    {
+        "id": "tigerI",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/tigerI.jpg",
+        "nombre": "Tiger I",
+        "descripcion": "Heavy Tank",
+        "detalles": {
+            "Year": 1942,
+            "Cannon": "88mm KwK 36",
+            "Front Armor": "100mm",
+            "Max speed": "45km/h"
+        }
+    },
+    {
+        "id": "tigerII",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/tigerII.jpg",
+        "nombre": "Tiger II",
+        "descripcion": "Heavy Tank",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "88mm KwK 43",
+            "Front Armor": "185mm",
+            "Max speed": "42km/h"
+        }
+    },
+    {
+        "id": "pantherG",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/pantherg.jpg",
+        "nombre": "Panther G",
+        "descripcion": "Medium Tank",
+        "detalles": {
+            "Year": 1943,
+            "Cannon": "75mm KwK 42 L70",
+            "Front Armor": "100mm",
+            "Max speed": "46km/h"
+        }
+    },
+    {
+        "id": "elefant",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/elefant.jpg",
+        "nombre": "Elefant",
+        "descripcion": "Tank Destroyer",
+        "detalles": {
+            "Year": 1943,
+            "Cannon": "88mm Pak 43/2 L71",
+            "Front Armor": "200mm",
+            "Max speed": "15km/h"
+        }
+    },
+    {
+        "id": "jagdpanther",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/jagdpanther.png",
+        "nombre": "Jagdpanther",
+        "descripcion": "Tank Destroyer",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "88mm Pak 43/3 L71",
+            "Front Armor": "100mm",
+            "Max speed": "46km/h"
+        }
+    },
+    {
+        "id": "jagdtiger",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/jagdtiger.jpg",
+        "nombre": "Jagdtiger",
+        "descripcion": "Tank Destroyer",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "128mm Pak 44 L55",
+            "Front Armor": "250mm",
+            "Max speed": "38km/h"
+        }
+    },
+    {
+        "id": "pantherf",
+        "tipo": "tanque",
+        "imagen": "/GermanWW2IMG/pantherf.png",
+        "nombre": "Panther F",
+        "descripcion": "Medium Tank",
+        "detalles": {
+            "Year": 1945,
+            "Cannon": "75mm KwK 42 L70",
+            "Front Armor": "100mm",
+            "Max speed": "46km/h"
+        }
+    },
+    {
+        "id": "bf109f4",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/bf109f4.jpg",
+        "nombre": "Bf 109 F-4",
+        "descripcion": "Fighter Aircraft",
+        "detalles": {
+            "Year": 1941,
+            "Cannon": "2*20mm MG FF/M",
+            "Payload": "500kg",
+            "Max speed": "600km/h"
+        }
+    },
+    {
+        "id": "bf109k4",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/bf109k4.jpg",
+        "nombre": "Bf 109 K-4",
+        "descripcion": "Fighter Aircraft",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "2*20mm MG 151/20",
+            "Payload": "500kg",
+            "Max speed": "750km/h"
+        }
+    },
+    {
+        "id": "fw190a8",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/fw190a8.png",
+        "nombre": "Fw 190 A-8",
+        "descripcion": "Fighter Aircraft",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "2*20mm MG 151/20",
+            "Payload": "500kg",
+            "Max speed": "670km/h"
+        }
+    },
+    {
+        "id": "he111h6",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/he111h6.png",
+        "nombre": "He 111 H-6",
+        "descripcion": "Bomber Aircraft",
+        "detalles": {
+            "Year": 1940,
+            "Cannon": "1*20mm MG FF/M",
+            "Payload": "1,000kg",
+            "Max speed": "450km/h"
+        }
+    },
+    {
+        "id": "ju87g2",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/ju87g2.jpg",
+        "nombre": "Ju 87 G-2 Stuka",
+        "descripcion": "Ground Attack Aircraft",
+        "detalles": {
+            "Year": 1943,
+            "Cannon": "2*37mm BK 3,7",
+            "Payload": "",
+            "Max speed": "400km/h"
+        }
+    },
+    {
+        "id": "fw190d12",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/fw190d12.jpg",
+        "nombre": "Fw 190 D-12",
+        "descripcion": "Fighter Aircraft",
+        "detalles": {
+            "Year": 1945,
+            "Cannon": "2*20mm MG 151/20",
+            "Payload": "500kg",
+            "Max speed": "750km/h"
+        }
+    },
+    {
+        "id": "ta152h1",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/ta152h1.jpg",
+        "nombre": "Ta 152 H-1",
+        "descripcion": "Fighter Aircraft",
+        "detalles": {
+            "Year": 1945,
+            "Cannon": "2*20mm MG 151/20",
+            "Payload": "500kg",
+            "Max speed": "800km/h"
+        }
+    },
+    {
+        "id": "he162a2",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/he162a2.jpg",
+        "nombre": "He 162 A-2 Salamander",
+        "descripcion": "Jet Fighter Aircraft",
+        "detalles": {
+            "Year": 1945,
+            "Cannon": "2*20mm MG 151/20",
+            "Payload": "0kg",
+            "Max speed": "850km/h"
+        }
+    },
+    {
+        "id": "ho229",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/ho229.png",
+        "nombre": "Horten Ho 229",
+        "descripcion": "Jet Fighter Aircraft",
+        "detalles": {
+            "Year": 1945,
+            "Cannon": "2*30mm MK 108",
+            "Payload": "1000kg",
+            "Max speed": "1,000km/h"
+        }
+    },
+    {
+        "id": "me262a1",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/me262a1.jpg",
+        "nombre": "Me 262 A-1",
+        "descripcion": "Jet Fighter Aircraft",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "4*30mm MK 108",
+            "Payload": "1000kg",
+            "Max speed": "900km/h"
+        }
+    },
+    {
+        "id": "me163",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/me163.jpeg",
+        "nombre": "Me 163 Komet",
+        "descripcion": "Rocket-Powered Fighter",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "2*30mm MK 108",
+            "Payload": "0kg",
+            "Max speed": "1,130km/h"
+        }
+    },
+    {
+        "id": "ar234b2",
+        "tipo": "avion",
+        "imagen": "/GermanWW2IMG/ar234b2.jpg",
+        "nombre": "Ar 234 B-2 Blitz",
+        "descripcion": "Jet Bomber Aircraft",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "2*20mm MG 151/20",
+            "Payload": "1,000kg",
+            "Max speed": "800km/h"
+        }
+    }
+]

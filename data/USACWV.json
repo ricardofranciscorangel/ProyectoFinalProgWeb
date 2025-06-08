@@ -1,0 +1,132 @@
+[
+    {
+        "id": "m46patton",
+        "tipo": "tanque",
+        "imagen": "/USAColdWarIMG/m46patton.jpg",
+        "nombre": "M46 Patton",
+        "descripcion": "Medium Tank",
+        "detalles": {
+            "Year": 1949,
+            "Cannon": "90mm M3A1",
+            "Front Armor": "102mm",
+            "Max speed": "48km/h"
+        }
+    },
+    {
+        "id": "m47patton",
+        "tipo": "tanque",
+        "imagen": "/USAColdWarIMG/m47patton.jpg",
+        "nombre": "M47 Patton",
+        "descripcion": "Medium Tank",
+        "detalles": {
+            "Year": 1951,
+            "Cannon": "90mm M36",
+            "Front Armor": "110mm",
+            "Max speed": "48km/h"
+        }
+    },
+    {
+        "id": "m48patton",
+        "tipo": "tanque",
+        "imagen": "/USAColdWarIMG/m48patton.jpg",
+        "nombre": "M48 Patton",
+        "descripcion": "Main Battle Tank",
+        "detalles": {
+            "Year": 1952,
+            "Cannon": "90mm M41",
+            "Front Armor": "120mm",
+            "Max speed": "48km/h"
+        }
+    },
+    {
+        "id": "m60patton",
+        "tipo": "tanque",
+        "imagen": "/USAColdWarIMG/m60patton.jpg",
+        "nombre": "M60 Patton",
+        "descripcion": "Main Battle Tank",
+        "detalles": {
+            "Year": 1960,
+            "Cannon": "105mm M68",
+            "Front Armor": "150mm",
+            "Max speed": "48km/h"
+        }
+    },
+    {
+        "id": "m551sheridan",
+        "tipo": "tanque",
+        "imagen": "/USAColdWarIMG/m551sheridan.jpg",
+        "nombre": "M551 Sheridan",
+        "descripcion": "Light Tank",
+        "detalles": {
+            "Year": 1969,
+            "Cannon": "152mm M81E1",
+            "Front Armor": "38mm",
+            "Max speed": "70km/h"
+        }
+    },
+    {
+        "id": "f86sabre",
+        "tipo": "avion",
+        "imagen": "/USAColdWarIMG/f86sabre.jpg",
+        "nombre": "F-86 Sabre",
+        "descripcion": "Fighter Jet",
+        "detalles": {
+            "Year": 1949,
+            "Cannon": "6*.50 cal M3 Browning MGs",
+            "Payload": "900kg",
+            "Max speed": "1,106km/h"
+        }
+    },
+    {
+        "id": "f4phantomii",
+        "tipo": "avion",
+        "imagen": "/USAColdWarIMG/f4phantomii.jpg",
+        "nombre": "F-4 Phantom II",
+        "descripcion": "Multirole Fighter",
+        "detalles": {
+            "Year": 1960,
+            "Cannon": "1*20mm M61 Vulcan (later models)",
+            "Payload": "8,400kg",
+            "Max speed": "2,370km/h"
+        }
+    },
+    {
+        "id": "b52stratofortress",
+        "tipo": "avion",
+        "imagen": "/USAColdWarIMG/b52stratofortress.jpg",
+        "nombre": "B-52 Stratofortress",
+        "descripcion": "Strategic Bomber",
+        "detalles": {
+            "Year": 1955,
+            "Cannon": "4*.50 cal MGs (early versions)",
+            "Payload": "32,000kg",
+            "Max speed": "1,046km/h"
+        }
+    },
+    {
+        "id": "sr71blackbird",
+        "tipo": "avion",
+        "imagen": "/USAColdWarIMG/sr71blackbird.jpg",
+        "nombre": "SR-71 Blackbird",
+        "descripcion": "Reconnaissance Aircraft",
+        "detalles": {
+            "Year": 1966,
+            "Cannon": "None",
+            "Payload": "Cameras and sensors only",
+            "Max speed": "3,540km/h"
+        }
+    },
+    {
+        "id": "a4skyhawk",
+        "tipo": "avion",
+        "imagen": "/USAColdWarIMG/a4skyhawk.jpg",
+        "nombre": "A-4 Skyhawk",
+        "descripcion": "Attack Aircraft",
+        "detalles": {
+            "Year": 1956,
+            "Cannon": "2*20mm Colt Mk 12",
+            "Payload": "4,100kg",
+            "Max speed": "1,083km/h"
+        }
+    }
+]

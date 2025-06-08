@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ukraine Conflict Menu</title>
+    <link href="/CSS/eramenusukraine.css" rel="stylesheet">
+    <style>
+        body {
+            background-image: url("/IMG/ukraine/ukrainemenu/EPRS_BRIE_TT_751421_Ukraine_final.png");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body onmouseenter="playHoverSoundUkraine()" onmouseleave="stopHoverSoundUkraine()">
+    <audio id="UkraineHover" src="/Audio/UkraineHover.mp3" preload="auto"></audio>
+
+    <div class="contenedor">
+        <a href="/HTML/UkraineRK.html" target="_blank">
+            <img src="/IMG/ukraine/Ukrainemenu/UkraineRK.png" alt="Ukrainian Forces">
+        </a>
+        <a href="/HTML/RussianRK.html" target="_blank">
+            <img src="/IMG/ukraine/Ukrainemenu/RussiancRK.png" alt="Russian Forces">
+        </a>
+    </div>
+
+    <div class="bordeyear">
+        <div class="year">2022–2025</div>
+    </div>
+
+    <script src="/JS/Audio.js"></script>
+</body>
+</html>

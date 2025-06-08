@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>coldwar</title>
+    <link href="../CSS/eramenus.css" rel="stylesheet">
+</head>
+<style>
+    body{
+        background-image: url("../IMG/coldwar/coldwarmenu/resize.png");
+        background-size: cover;
+        background-position: center;    
+        background-repeat: no-repeat;   
+        background-attachment: fixed;   
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+<body onmouseenter="playHoverSoundColdWar()" onmouseleave="stopHoverSoundColdWar()">
+<audio id="ColdWarHover" src="../Audio/ColdWarHover.mp3" preload="auto"></audio>
+    <div class="contenedor">
+        <a href="FranceCWV.html" target="_blank"><img src="../IMG/coldwar/coldwarmenu/Francecw.png"></a>
+        <a href="../HTML/USACWV.html" target="_blank"><img src="../IMG/coldwar/coldwarmenu/USAcw.png"></a>
+        <a href="../HTML/GermanyCWV.html" target="_blank"><img src="../IMG/coldwar/coldwarmenu/Germanycw.png"></a>
+        <a><img src="../IMG/coldwar/coldwarmenu/USSRcw.png"></a>
+        <a><img src="../IMG/coldwar/coldwarmenu/Japancw.png"></a>
+        <a><img src="../IMG/coldwar/coldwarmenu/UKcw.png"></a>
+    </div>
+<div class="bordeyear">
+<div class="year">1946-1991</div>
+</div>
+</body>
+</html>

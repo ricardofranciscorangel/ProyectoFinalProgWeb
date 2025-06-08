@@ -1,0 +1,145 @@
+[
+    {
+        "id": "A7V",
+        "tipo": "tanque",
+        "imagen": "/GermanWW1IMG/A7V.jpeg",
+        "nombre": "A7V",
+        "descripcion": "Germany's First Tank",
+        "detalles": {
+            "Year": 1918,
+            "Cannon": "57mm Maxim-Nordenfelt",
+            "Front Armor": "30mm",
+            "Max speed": "15km/h"
+        }
+    },
+    {
+        "id": "beutepanzer IV",
+        "tipo": "tanque",
+        "imagen": "/GermanWW1IMG/Beutepanzer IV.jpg",
+        "nombre": "Beutepanzer IV",
+        "descripcion": "Captured British Tank",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "2*57mm Maxim-Norden",
+            "Front Armor": "16mm",
+            "Max speed": "6km/h"
+        }
+    },
+    {
+        "id": "sturmpanzerwagen",
+        "tipo": "tanque",
+        "imagen": "/GermanWW1IMG/SturmpanzerWagen.jpg",
+        "nombre": "SturmpanzerWagen",
+        "descripcion": "Light Tank",
+        "detalles": {
+            "Year": 1918,
+            "Cannon": "57mm Maxim-Nordenfelt",
+            "Front Armor": "15mm",
+            "Max speed": "16km/h"
+        }
+    },
+    {
+        "id": "garford-beute",
+        "tipo": "tanque",
+        "imagen": "/GermanWW1IMG/garfordbeute.jpg",
+        "nombre": "Garford-Beute",
+        "descripcion": "Captured Russian A-C",
+        "detalles": {
+            "Year": 1915,
+            "Cannon": "76.2mm Model 1910 cannon",
+            "Front Armor": "6mm",
+            "Max speed": "18km/h"
+        }
+    },
+    {
+        "id": "fokker eindecker",
+        "tipo": "avion",
+        "imagen": "/GermanWW1IMG/fokkereindecker.png",
+        "nombre": "Fokker Eindecker",
+        "descripcion": "Germany's First Fighter",
+        "detalles": {
+            "Year": 1915,
+            "Cannon": "7.92mm MG08",
+            "Payload": "No payload",
+            "Max speed": "140km/h"
+        }
+    },
+    {
+        "id": "albatrosdv",
+        "tipo": "avion",
+        "imagen": "/GermanWW1IMG/albatrosdv.jpg",
+        "nombre": "Albatros D.V",
+        "descripcion": "Fighter Aircraft",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "2*7.92mm MG08",
+            "Payload": "No payload",
+            "Max speed": "187km/h"
+        }
+    },
+    {
+        "id": "fokkerDR1",
+        "tipo": "avion",
+        "imagen": "/GermanWW1IMG/fokkerdr1.jpg",
+        "nombre": "Fokker DR.1",
+        "descripcion": "Famous Triplane Fighter",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "2*7.92mm MG08",
+            "Payload": "No payload",
+            "Max speed": "185km/h"
+        }
+    },
+    {
+        "id": "fokkerdVII",
+        "tipo": "avion",
+        "imagen": "/GermanWW1IMG/fokkerdVII.png",
+        "nombre": "Fokker D.VII",
+        "descripcion": "Advanced Fighter Aircraft",
+        "detalles": {
+            "Year": 1918,
+            "Cannon": "2*7.92mm MG08",
+            "Payload": "No payload",
+            "Max speed": "190km/h"
+        }
+    },
+    {
+        "id": "gothagv",
+        "tipo": "avion",
+        "imagen": "/GermanWW1IMG/gothaGV.jpg",
+        "nombre": "Gotha G.V",
+        "descripcion": "Heavy Bomber",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "2*7.92mm MG14",
+            "Payload": "350kg",
+            "Max speed": "140km/h"
+        }
+    },
+    {
+        "id": "zeppelins",
+        "tipo": "avion",
+        "imagen": "/GermanWW1IMG/Zeppelin.jpg",
+        "nombre": "Zeppelin",
+        "descripcion": "Airship Bomber",
+        "detalles": {
+            "Year": 1915,
+            "Cannon": "5*7.92mm MG14",
+            "Payload": "1,000kg",
+            "Max speed": "120km/h"
+        }
+    },
+    {
+        "id": "zepellin-staaken",
+        "tipo": "avion",
+        "imagen": "/GermanWW1IMG/zeppelinstaaken.jpg",
+        "nombre": "Zeppelin-Staaken",
+        "descripcion": "Giant Bomber",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "4*7.92mm MG14",
+            "Payload": "2000kg",
+            "Max speed": "135km/h"
+        }
+    }
+]

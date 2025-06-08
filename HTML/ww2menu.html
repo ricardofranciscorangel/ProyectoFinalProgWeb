@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WW2MENU</title>
+    <link href="../CSS/eramenus.css" rel="stylesheet" />
+</head>
+<style>
+    body {
+        background-image: url("../IMG/ww2/ww2menu/ww2menuback.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+<body onmouseenter="playHoverSoundWW2()" onmouseleave="stopHoverSoundWW2()">
+<audio id="WW2Hover" src="../Audio/WW2Hover.mp3" preload="auto"></audio>
+    <div class="contenedor">
+        <a><img src="../IMG/ww2/ww2menu/THE UNITED KINGDOM ww2.png" /></a>
+        <a href="../HTML/FranceWW2V.html" target="_blank"><img src="../IMG/ww2/ww2menu/French Republic ww2.png" /></a>
+        <a href="../HTML/GermanyWW2.html" target="_blank"><img src="../IMG/ww2/ww2menu/German Reich ww2.png" /></a>
+        <a><img src="../IMG/ww2/ww2menu/Soviet Union ww2.png" /></a>
+        <a><img src="../IMG/ww2/ww2menu/Japan ww2.png" /></a>
+        <a href="../HTML/USAWW2.html" target="_blank"><img src="../IMG/ww2/ww2menu/USA ww2.png" /></a>
+    </div>
+    <div class="bordeyear">
+        <div class="year">1939-1945</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+[
+    {
+        "id": "m1917",
+        "tipo": "tanque",
+        "imagen": "/USAWW1IMG/m1917.jpg",
+        "nombre": "M1917",
+        "descripcion": "Light Tank",
+        "detalles": {
+            "Year": 1918,
+            "Cannon": "37mm Puteaux SA 18",
+            "Front Armor": "22mm",
+            "Max speed": "8km/h"
+        }
+    },
+    {
+        "id": "steamtank1918",
+        "tipo": "tanque",
+        "imagen": "/USAWW1IMG/steamtank1918.jpg",
+        "nombre": "Steam Tank 1918",
+        "descripcion": "Steam-powered Tank",
+        "detalles": {
+            "Year": 1918,
+            "Cannon": "75mm cannon + 2 MGs",
+            "Front Armor": "15mm",
+            "Max speed": "6.4km/h"
+        }
+    },
+    {
+        "id": "ford3tonm1918",
+        "tipo": "tanque",
+        "imagen": "/USAWW1IMG/ford3tonm1918.jpg",
+        "nombre": "Ford 3-Ton M1918",
+        "descripcion": "Light Tank",
+        "detalles": {
+            "Year": 1918,
+            "Cannon": "1 x .30 cal M1917 MG",
+            "Front Armor": "12mm",
+            "Max speed": "12km/h"
+        }
+    },
+    {
+        "id": "holtgasotank1917",
+        "tipo": "tanque",
+        "imagen": "/USAWW1IMG/holtgasotank1917.jpg",
+        "nombre": "Holt Gas-Electric Tank",
+        "descripcion": "Gas-Electric Tank",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "75mm cannon + 2 MGs",
+            "Front Armor": "15mm",
+            "Max speed": "6.4km/h"
+        }
+    },
+    {
+        "id": "curtissjn4",
+        "tipo": "avion",
+        "imagen": "/USAWW1IMG/curtissjn4.jpg",
+        "nombre": "Curtiss JN-4",
+        "descripcion": "Primary Trainer Aircraft",
+        "detalles": {
+            "Year": 1915,
+            "Cannon": "1 x .30 cal machine gun (variante JN-4D)",
+            "Payload": "45kg",
+            "Max speed": "121km/h"
+        }
+    },
+    {
+        "id": "thomasmorses4",
+        "tipo": "avion",
+        "imagen": "/USAWW1IMG/thomasmorses4.jpg",
+        "nombre": "Thomas-Morse S-4",
+        "descripcion": "Primary Trainer Aircraft",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "1 x .30 cal Vickers machine gun",
+            "Payload": "No bombs; only training armament",
+            "Max speed": "186km/h"
+        }
+    },
+    {
+        "id": "standarde1",
+        "tipo": "avion",
+        "imagen": "/USAWW1IMG/standarde1.jpg",
+        "nombre": "Standard E-1",
+        "descripcion": "Fighter Aircraft",
+        "detalles": {
+            "Year": 1918,
+            "Cannon": "1 x .30 cal machine gun",
+            "Payload": "Light armament only",
+            "Max speed": "132km/h"
+        }
+    }
+]
+

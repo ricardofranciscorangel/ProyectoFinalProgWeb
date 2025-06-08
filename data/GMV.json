@@ -1,0 +1,197 @@
+[
+    {
+        "id": "leopard2A5",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Leopard-2A5.png",
+        "nombre": "Leopard 2A5",
+        "descripcion": "German Main Battletank",
+        "detalles": {
+            "Year": 1998,
+            "Cannon": "120mm L44 Rheinmetall",
+            "Front Armor": "950mm",
+            "Max speed": "72km/h"
+        }
+    },
+    {
+        "id": "leopard2A6",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Leopard2A6.png",
+        "nombre": "Leopard 2A6",
+        "descripcion": "German Main Battletank",
+        "detalles": {
+            "Year": 2001,
+            "Cannon": "120mm L55 Rheinmetall",
+            "Front Armor": "950mm",
+            "Max speed": "72km/h"
+        }
+    },
+    {
+        "id": "leopard2A7",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Leopard2A7.png",
+        "nombre": "Leopard 2A7",
+        "descripcion": "German Main Battletank",
+        "detalles": {
+            "Year": 2014,
+            "Cannon": "120mm L55 Rheinmetall",
+            "Front Armor": "1000mm",
+            "Max speed": "72km/h"
+        }
+    },
+    {
+        "id": "leopard2A8",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Leopard2A8.jpg",
+        "nombre": "Leopard 2A8",
+        "descripcion": "German Main Battletank",
+        "detalles": {
+            "Year": 2024,
+            "Cannon": "120mm L55 Rheinmetall",
+            "Front Armor": "1000mm",
+            "Max speed": "72km/h"
+        }
+    },
+    {
+        "id": "pumaModern",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/PumaIFV.png",
+        "nombre": "Puma",
+        "descripcion": "Infantry Fighting Vehicule",
+        "detalles": {
+            "Year": 2010,
+            "Cannon": "30mm MK-30-2ABM",
+            "Front Armor": "450mm",
+            "Max speed": "70km/h"
+        }
+    },
+    {
+        "id": "marder1A5",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Marder1 A5A1.jpg",
+        "nombre": "Marder 1A5",
+        "descripcion": "Infantry Fighting Vehicule",
+        "detalles": {
+            "Year": 2003,
+            "Cannon": "20mm Rh-202 Autocannon",
+            "Front Armor": "100mm",
+            "Max speed": "75km/h"
+        }
+    },
+    {
+        "id": "wiesel1A2",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Wiesel1A2.png",
+        "nombre": "Wiesel 1A2",
+        "descripcion": "Light Tank Destroyer",
+        "detalles": {
+            "Year": 2001,
+            "Cannon": "BGM-71 TOW ATGM",
+            "Front Armor": "10mm",
+            "Max speed": "80km/h"
+        }
+    },
+    {
+        "id": "ozelot",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Ozelot.png",
+        "nombre": "Ozelot",
+        "descripcion": "Self-Propeled Anti-Air",
+        "detalles": {
+            "Year": 2012,
+            "Cannon": "Fliegerfaust 2 Stinger",
+            "Front Armor": "10mm",
+            "Max speed": "70km/h"
+        }
+    },
+    {
+        "id": "panzerhaubitze 2000",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/PzH 2000.jpeg",
+        "nombre": "PzH 2000",
+        "descripcion": "Self-Propeled Artillery",
+        "detalles": {
+            "Year": 1998,
+            "Cannon": "155mm Rheinmetall L/52",
+            "Front Armor": "30mm",
+            "Max speed": "60km/h"
+        }
+    },
+    {
+        "id": "flakrakrad",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/FlakRakRad.JPG",
+        "nombre": "FlakRakRad",
+        "descripcion": "Self-Propeled Anti-Air",
+        "detalles": {
+            "Year": 2001,
+            "Cannon": "Roland SAM",
+            "Front Armor": "15mm",
+            "Max speed": "90km/h"
+        }
+    },
+    {
+        "id": "boxer mgs",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Boxer MGS.jpg",
+        "nombre": "Boxer MGS",
+        "descripcion": "Light Tank",
+        "detalles": {
+            "Year": 2021,
+            "Cannon": "105mm Cockerill HP cannon",
+            "Front Armor": "25mm",
+            "Max speed": "103km/h"
+        }
+    },
+    {
+        "id": "panther kf-51",
+        "tipo": "tanque",
+        "imagen": "/GermanModernIMG/Panther KF-51.png",
+        "nombre": "Panther KF-51",
+        "descripcion": "Future Main Battle Tank",
+        "detalles": {
+            "Year": 2025,
+            "Cannon": "130mm Rheinmetall L/52",
+            "Front Armor": "1000mm",
+            "Max speed": "72km/h"
+        }
+    },
+    {
+        "id": "EF-2000",
+        "tipo": "avion",
+        "imagen": "/GermanModernIMG/EF-2000.jpg",
+        "nombre": "Eurofighter Typhoon",
+        "descripcion": "Air Superiority Fighter",
+        "detalles": {
+            "Year": 2003,
+            "Cannon": "27mm Mauser BK27",
+            "Payload": "7,500kg",
+            "Max speed": "2,149km/h"
+        }
+    },
+    {
+        "id": "airbus a400m",
+        "tipo": "avion",
+        "imagen": "/GermanModernIMG/Airbusa400m.jpg",
+        "nombre": "Airbus A400M Atlas",
+        "descripcion": "Transport Plane",
+        "detalles": {
+            "Year": 2009,
+            "Cannon": "No armament",
+            "Payload": "37,000kg",
+            "Max speed": "864km/h"
+        }
+    },
+    {
+        "id": "tornado ids",
+        "tipo": "avion",
+        "imagen": "/GermanModernIMG/Tornado IDS.jpg",
+        "nombre": "Tornado IDS ASSTA1",
+        "descripcion": "Strike Aircraft",
+        "detalles": {
+            "Year": 2003,
+            "Cannon": "2*27mm Mauser BK27",
+            "Payload": "7,257kg",
+            "Max speed": "2,362km/h"
+        }
+    }
+]

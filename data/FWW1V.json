@@ -1,0 +1,80 @@
+[
+    {
+        "id": "RenaultFT",
+        "tipo": "tanque",
+        "imagen": "/FranceWW1IMG/RenaultFT.jpg",
+        "nombre": "Renault FT",
+        "descripcion": "Infantry support tank",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "37 mm Puteaux SA 18 or Hotchkiss M1914 machine gun",
+            "Front Armor": "16 mm",
+            "Max speed": "7 km/h"
+        }
+    },
+    {
+        "id": "SchneiderCA1",
+        "tipo": "tanque",
+        "imagen": "/FranceWW1IMG/SchneiderCA1.jpg",
+        "nombre": "Schneider CA1",
+        "descripcion": "Assault tank for trenches",
+        "detalles": {
+            "Year": 1916,
+            "Cannon": "75 mm Blockhaus Schneider",
+            "Front Armor": "11.4 mm",
+            "Max speed": "8 km/h"
+        }
+    },
+    {
+        "id": "SaintChamond",
+        "tipo": "tanque",
+        "imagen": "/FranceWW1IMG/SaintChamond.jpg",
+        "nombre": "Saint Chamond",
+        "descripcion": "Heavy support tank",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "75 mm Saint Chamond",
+            "Front Armor": "17 mm",
+            "Max speed": "12 km/h"
+        }
+    },
+    {
+        "id": "SPADSXIII",
+        "tipo": "avion",
+        "imagen": "/FranceWW1IMG/SPADS.XIII.jpg",
+        "nombre": "SPAD S.XIII",
+        "descripcion": "French biplane fighter",
+        "detalles": {
+            "Year": 1917,
+            "Cannon": "2 * 7.7 mm Vickers machine guns",
+            "Payload": "845kg",
+            "Max speed": "218 km/h"
+        }
+    },
+    {
+        "id": "Nieuport17",
+        "tipo": "avion",
+        "imagen": "/FranceWW1IMG/Nieuport17.jpg",
+        "nombre": "Nieuport 17",
+        "descripcion": "Lightweight French fighter",
+        "detalles": {
+            "Year": 1916,
+            "Cannon": "1 * 7.7 mm Vickers machine gun",
+            "Payload": "300kg",
+            "Max speed": "177 km/h"
+        }
+    },
+    {
+        "id": "Breguet14",
+        "tipo": "avion",
+        "imagen": "/FranceWW1IMG/Breguet14.jpg",
+        "nombre": "Breguet 14",
+        "descripcion": "Bomber and reconnaissance",
+        "detalles": {
+            "Year": 1916,
+            "Cannon": "7.7mm Vickers ",
+            "Payload": "1536kg",
+            "Max speed": "185 km/h"
+        }
+    }
+]

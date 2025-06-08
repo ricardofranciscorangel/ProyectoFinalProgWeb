@@ -1,0 +1,67 @@
+[
+    {
+        "id": "LeclercS2",
+        "tipo": "tanque",
+        "imagen": "/FranceModernIMG/LeclercS2.jpg",
+        "nombre": "Leclerc S2",
+        "descripcion": "French Main Battle Tank",
+        "detalles": {
+            "Year": 1998,
+            "Cannon": "120 mm GIAT CN120-26/52",
+            "Front Armor": "700mm",
+            "Max speed": "72km/h"
+        }
+    },
+    {
+        "id": "VBCI",
+        "tipo": "tanque",
+        "imagen": "/FranceModernIMG/VBCI.jpg",
+        "nombre": "VBCI",
+        "descripcion": "French Infantry Fighting Vehicle",
+        "detalles": {
+            "Year": 2008,
+            "Cannon": "25 mm GIAT M811",
+            "Front Armor": "50mm",
+            "Max speed": "100km/h"
+        }
+    },
+    {
+        "id": "EBRCJaguar",
+        "tipo": "tanque",
+        "imagen": "/FranceModernIMG/EBRCJaguar.jpg",
+        "nombre": "EBRC Jaguar",
+        "descripcion": "Armored Recon Vehicle",
+        "detalles": {
+            "Year": 2021,
+            "Cannon": "40 mm CTAS",
+            "Front Armor": "40mm",
+            "Max speed": "90km/h"
+        }
+    },
+    {
+        "id": "DassaultRafaleC",
+        "tipo": "avion",
+        "imagen": "/FranceModernIMG/DassaultRafaleC.jpg",
+        "nombre": "Dassault Rafale C",
+        "descripcion": "French Multirole Fighter",
+        "detalles": {
+            "Year": 2001,
+            "Cannon": "1 * 30 mm GIAT 30/M791",
+            "Payload": "9,500kg",
+            "Max speed": "1,912km/h"
+        }
+    },
+    {
+        "id": "Mirage2000D",
+        "tipo": "avion",
+        "imagen": "/FranceModernIMG/Mirage2000D.jpg",
+        "nombre": "Dassault Mirage 2000D",
+        "descripcion": "French Strike Fighter",
+        "detalles": {
+            "Year": 1993,
+            "Cannon": "2* 30 mm DEFA 554",
+            "Payload": "6,300kg",
+            "Max speed": "2,336km/h"
+        }
+    }
+]

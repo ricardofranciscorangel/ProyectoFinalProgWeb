@@ -1,0 +1,132 @@
+[
+    {
+        "id": "m4sherman",
+        "tipo": "tanque",
+        "imagen": "/USAWW2IMG/m4sherman.jpg",
+        "nombre": "M4 Sherman",
+        "descripcion": "Medium Tank",
+        "detalles": {
+            "Year": 1942,
+            "Cannon": "75mm M3",
+            "Front Armor": "76mm",
+            "Max speed": "38km/h"
+        }
+    },
+    {
+        "id": "m3lee",
+        "tipo": "tanque",
+        "imagen": "/USAWW2IMG/m3lee.jpg",
+        "nombre": "M3 Lee",
+        "descripcion": "Medium Tank",
+        "detalles": {
+            "Year": 1941,
+            "Cannon": "75mm M2 + 37mm M5",
+            "Front Armor": "51mm",
+            "Max speed": "42km/h"
+        }
+    },
+    {
+        "id": "m26pershing",
+        "tipo": "tanque",
+        "imagen": "/USAWW2IMG/m26pershing.jpg",
+        "nombre": "M26 Pershing",
+        "descripcion": "Heavy Tank",
+        "detalles": {
+            "Year": 1945,
+            "Cannon": "90mm M3",
+            "Front Armor": "102mm",
+            "Max speed": "40km/h"
+        }
+    },
+    {
+        "id": "m22locust",
+        "tipo": "tanque",
+        "imagen": "/USAWW2IMG/m22locust.jpg",
+        "nombre": "M22 Locust",
+        "descripcion": "Light Tank",
+        "detalles": {
+            "Year": 1943,
+            "Cannon": "37mm M6",
+            "Front Armor": "12.5mm",
+            "Max speed": "64km/h"
+        }
+    },
+    {
+        "id": "m18hellcat",
+        "tipo": "tanque",
+        "imagen": "/USAWW2IMG/m18hellcat.jpg",
+        "nombre": "M18 Hellcat",
+        "descripcion": "Tank Destroyer",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "76mm gun M1A1",
+            "Front Armor": "25mm",
+            "Max speed": "89km/h"
+        }
+    },
+    {
+        "id": "p51mustang",
+        "tipo": "avion",
+        "imagen": "/USAWW2IMG/p51mustang.jpg",
+        "nombre": "P-51 Mustang",
+        "descripcion": "Fighter Aircraft",
+        "detalles": {
+            "Year": 1942,
+            "Cannon": "6*.50 cal",
+            "Payload": "907kg",
+            "Max speed": "703km/h"
+        }
+    },
+    {
+        "id": "p47thunderbolt",
+        "tipo": "avion",
+        "imagen": "/USAWW2IMG/p47thunderbolt.jpg",
+        "nombre": "P-47 Thunderbolt",
+        "descripcion": "Fighter-Bomber",
+        "detalles": {
+            "Year": 1942,
+            "Cannon": "8*.50 cal Browning M2 MGs",
+            "Payload": "1,135kg",
+            "Max speed": "697km/h"
+        }
+    },
+    {
+        "id": "f6fhellcat",
+        "tipo": "avion",
+        "imagen": "/USAWW2IMG/f6fhellcat.jpg",
+        "nombre": "F6F Hellcat",
+        "descripcion": "Carrier-Based Fighter",
+        "detalles": {
+            "Year": 1943,
+            "Cannon": "6*.50 cal M2 Browning MGs",
+            "Payload": "910kg",
+            "Max speed": "611km/h"
+        }
+    },
+    {
+        "id": "b17flyingfortress",
+        "tipo": "avion",
+        "imagen": "/USAWW2IMG/b17flyingfortress.jpg",
+        "nombre": "B-17 Flying Fortress",
+        "descripcion": "Heavy Bomber",
+        "detalles": {
+            "Year": 1938,
+            "Cannon": "13*.50 cal M2 Browning MGs",
+            "Payload": "3,600kg",
+            "Max speed": "462km/h"
+        }
+    },
+    {
+        "id": "b29superfortress",
+        "tipo": "avion",
+        "imagen": "/USAWW2IMG/b29superfortress.jpg",
+        "nombre": "B-29 Superfortress",
+        "descripcion": "Heavy Nuclear Bomber",
+        "detalles": {
+            "Year": 1944,
+            "Cannon": "12*.50 cal MGs",
+            "Payload": "9,000kg",
+            "Max speed": "574km/h"
+        }
+    }
+]

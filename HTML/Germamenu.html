@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GermanMenu</title>
+    <link href="../CSS/countrymenu.css" rel="stylesheet">
+</head>
+<style>
+    body{
+        background-image: url("../IMG/countrysmenu/Germany/germanbackg.png");
+        background-size: cover;
+        background-position: center;    
+        background-repeat: no-repeat;   
+        background-attachment: fixed;   
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+<body onmouseenter="playHoverSoundGermany()" onmouseleave="stopHoverSoundGermany()">
+<audio id="GermanyHover" src="../Audio/GermanyHover.mp3" preload="auto"></audio>
+<div class="contenedor">
+    <a href="../HTML/GermanyWW1.html" target="_blank"><img src="../IMG/countrysmenu/Germany/GWW1.png"></a>
+    <a href="../HTML/GermanyWW2.html" target="_blank"><img src="../IMG/countrysmenu/Germany/GWW2.png"></a>
+    <a href="../HTML/GermanyCWV.html" target="_blank"><img src="../IMG/countrysmenu/Germany/GCD (1).png"></a>
+    <a href="../HTML/GermanyMVP.html" target="_blank"><img src="../IMG/countrysmenu/Germany/GMD (1).png"></a>
+</div>
+<div class="bordeyear">
+<div class="year">1914-2025</div>
+</div>
+<script src="../JS/Audio.js"></script>
+</body>
+</html>

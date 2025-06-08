@@ -1,0 +1,106 @@
+[
+    {
+        "id": "ARL44",
+        "tipo": "tanque",
+        "imagen": "/FranceColdWarIMG/ARL444.jpg",
+        "nombre": "ARL 44",
+        "descripcion": "French Heavy Tank",
+        "detalles": {
+            "Year": 1949,
+            "Cannon": "90 mm SA 45",
+            "Front Armor": "120mm",
+            "Max speed": "37km/h "
+        }
+    },
+    {
+        "id": "AMX-13",
+        "tipo": "tanque",
+        "imagen": "/FranceColdWarIMG/AMX-13.jpg",
+        "nombre": "AMX-13 (FL11)",
+        "descripcion": "France Advanced Light Tank",
+        "detalles": {
+            "Year": 1954,
+            "Cannon": "75 mm SA 49",
+            "Front Armor": "40mm",
+            "Max speed": "60km/h"
+        }
+    },
+    {
+        "id": "AMX-US",
+        "tipo": "tanque",
+        "imagen": "/FranceColdWarIMG/AMX-US.jpg",
+        "nombre": "AMX-13 US",
+        "descripcion": "France Improvised Light Tank",
+        "detalles": {
+            "Year": 1957,
+            "Cannon": "105 mm M68 rifled cannon",
+            "Front Armor": "40mm",
+            "Max speed": "60km/h"
+        }
+    },
+    {
+        "id": "AMX-10RCR",
+        "tipo": "tanque",
+        "imagen": "/FranceColdWarIMG/AMX-10RCR.jpg",
+        "nombre": "AMX-10 RCR",
+        "descripcion": "France Wheeled Tank Destroyer",
+        "detalles": {
+            "Year": 1979,
+            "Cannon": "105 mm(4.13 in)F2 rifled cannon",
+            "Front Armor": "30mm",
+            "Max speed": "85km/h"
+        }
+    },
+    {
+        "id": "M4A4",
+        "tipo": "tanque",
+        "imagen": "/FranceColdWarIMG/M4A4.jpg",
+        "nombre": "M4A4 (SA50)",
+        "descripcion": "France Medium Tank",
+        "detalles": {
+            "Year": 1954,
+            "Cannon": "75 mm SA 50",
+            "Front Armor": "63mm",
+            "Max speed": "40km/h"
+        }
+    },
+    {
+        "id": "M.D.450B",
+        "tipo": "avion",
+        "imagen": "/FranceColdWarIMG/M.D.450B.jpg",
+        "nombre": "M.D.450B Ouragan",
+        "descripcion": "Jet Fighter",
+        "detalles": {
+            "Year": 1952,
+            "Cannon": "2*20 mm M50",
+            "Payload": "900kg",
+            "Max speed": "1,030km/h"
+        }
+    },
+    {
+        "id": "MD452IIA ",
+        "tipo": "avion",
+        "imagen": "/FranceColdWarIMG/MD452IIA.jpg",
+        "nombre": "MD452 IIA Mystère II",
+        "descripcion": "Jet Fighter",
+        "detalles": {
+            "Year": 1951,
+            "Cannon": "2*20 mm M50",
+            "Payload": "900kg",
+            "Max speed": "1,108km/h"
+        }
+    },
+    {
+        "id": "S.O.4050VautourIIA",
+        "tipo": "avion",
+        "imagen": "/FranceColdWarIMG/S.O.4050VautourIIA.jpg",
+        "nombre": "S.O.4050 Vautour IIA",
+        "descripcion": "Jet Bomber",
+        "detalles": {
+            "Year": 1156,
+            "Cannon": "4*30 mm DEFA 551",
+            "Payload": "3.000kg",
+            "Max speed": "1,166km/h"
+        }
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "id": "CharB1bis",
+        "tipo": "tanque",
+        "imagen": "/FranceWW2IMG/CharB1bis.jpg",
+        "nombre": "Char B1 bis",
+        "descripcion": "Heavy tank for assaults.",
+        "detalles": {
+            "Year": 1937,
+            "Cannon": "75 mm howitzer, 47 mm SA 35",
+            "Front Armor": "60mm",
+            "Max speed": "28km/h"
+        }
+    },
+    {
+        "id": "SomuaS35",
+        "tipo": "tanque",
+        "imagen": "/FranceWW2IMG/SomuaS35.jpg",
+        "nombre": "Somua S35",
+        "descripcion": "Main cavalry tank.",
+        "detalles": {
+            "Year": 1936,
+            "Cannon": "47 mm SA35L/32",
+            "Front Armor": "47mm",
+            "Max speed": "40km/h"
+        }
+    },
+    {
+        "id": "HotchkissH35",
+        "tipo": "tanque",
+        "imagen": "/FranceWW2IMG/HotchkissH35.jpg",
+        "nombre": "Hotchkiss H35",
+        "descripcion": "Light tank for infantry support.",
+        "detalles": {
+            "Year": 1936,
+            "Cannon": "37 mm Puteaux SA 18",
+            "Front Armor": "34mm",
+            "Max speed": "28km/h"
+        }
+    },
+    {
+        "id": "RenaultR35",
+        "tipo": "tanque",
+        "imagen": "/FranceWW2IMG/RenaultR35.jpg",
+        "nombre": "Renault R35",
+        "descripcion": "Light tank for infantry support.",
+        "detalles": {
+            "Year": 1936,
+            "Cannon": "37 mm Puteaux SA 18",
+            "Front Armor": "40mm",
+            "Max speed": "20km/h"
+        }
+    },
+    {
+        "id": "FCM36",
+        "tipo": "tanque",
+        "imagen": "/FranceWW2IMG/FCM36.jpg",
+        "nombre": "FCM 36",
+        "descripcion": "Light tank with sloped armor.",
+        "detalles": {
+            "Year": 1938,
+            "Cannon": "37mm L/21SA18",
+            "Front Armor": "40mm",
+            "Max speed": "24km/h"
+        }
+    },
+    {
+        "id": "DewoitineD.520",
+        "tipo": "avion",
+        "imagen": "/FranceWW2IMG/D520.jpg",
+        "nombre": "Dewoitine D.520",
+        "descripcion": "Main French fighter.",
+        "detalles": {
+            "Year": 1939,
+            "Cannon": "20 mm Hispano Suiza HS.404",
+            "Payload": "None",
+            "Max speed": "540km/h"
+        }
+    },
+    {
+        "id": "BlochMB.152",
+        "tipo": "avion",
+        "imagen": "/FranceWW2IMG/MB152.jpg",
+        "nombre": "Bloch MB.152",
+        "descripcion": "Fighter aircraft.",
+        "detalles": {
+            "Year": 1938,
+            "Cannon": "20 mm Hispano Suiza HS.404",
+            "Payload": "None",
+            "Max speed": "509km/h"
+        }
+    },
+    {
+        "id": "MoraneSaulnierMS.406",
+        "tipo": "avion",
+        "imagen": "/FranceWW2IMG/MS406.jpg",
+        "nombre": "Morane Saulnier MS.406",
+        "descripcion": "French fighter.",
+        "detalles": {
+            "Year": 1938,
+            "Cannon": "20 mm Hispano Suiza HS.404",
+            "Payload": "None",
+            "Max speed": "489km/h"
+        }
+    },
+    {
+        "id": "LioréetOlivierLeO451",
+        "tipo": "avion",
+        "imagen": "/FranceWW2IMG/LeO451.jpg",
+        "nombre": "Lioré et Olivier LeO 451",
+        "descripcion": "Medium bomber.",
+        "detalles": {
+            "Year": 1938,
+            "Cannon": "20 mm Hispano Suiza HS.404",
+            "Payload": "1,500kg",
+            "Max speed": "480km/h"
+        }
+    },
+    {
+        "id": "Potez631",
+        "tipo": "avion",
+        "imagen": "/FranceWW2IMG/Potez631.jpg",
+        "nombre": "Potez 631",
+        "descripcion": "Twin-engine heavy fighter.",
+        "detalles": {
+            "Year": 1938,
+            "Cannon": "20 mm Hispano Suiza HS.404",
+            "Payload": "200kg",
+            "Max speed": "450km/h"
+        }
+    }
+]

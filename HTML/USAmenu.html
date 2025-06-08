@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>USAmodern</title>
+    <link href="../CSS/countrymenu.css" rel="stylesheet" />
+    <style>
+        body {
+            background-image: url("../IMG/countrysmenu/USA/United_States_Capitol_west_front_edit2.jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body onmouseenter="playHoverSoundUSA()" onmouseleave="stopHoverSoundUSA()">
+    <audio id="USAHover" src="../Audio/USAHover.mp3" preload="auto"></audio>
+    <div class="contenedor">
+        <a href="../HTML/USAWW1.html" target="_blank">
+            <img src="../IMG/countrysmenu/USA/USAWW1 (1).png" alt="USA WW1 Vehicles" />
+        </a>
+        <a href="../HTML/USAWW2.html" target="_blank">
+            <img src="../IMG/countrysmenu/USA/USAWW2.png" alt="USA WW2 Vehicles" />
+        </a>
+        <a href="../HTML/USACWV.html" target="_blank">
+            <img src="../IMG/countrysmenu/USA/USACW.png" alt="USA Cold War Vehicles" />
+        </a>
+        <a href="../HTML/USAMV.html" target="_blank">
+            <img src="../IMG/countrysmenu/USA/USAMD.png" alt="USA Modern Vehicles" />
+        </a>
+    </div>
+    <div class="bordeyear">
+        <div class="year">1914-2025</div>
+    </div>
+    <script src="../JS/Audio.js"></script>
+</body>
+</html>

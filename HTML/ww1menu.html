@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ww1menu</title>
+    <link href="../CSS/eramenus.css" rel="stylesheet" />
+</head>
+<style>
+    body {
+        background-image: url("../IMG/ww1/ww1menu/1-battle-of-the-somme.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+<body onmouseenter="playHoverSoundWW1()" onmouseleave="stopHoverSoundWW1()">
+<audio id="WW1Hover" src="../Audio/WW1Hover.mp3" preload="auto"></audio>
+<div class="contenedor">
+    <a><img src="../IMG/ww1/ww1menu/THE UNITED KINGDOM.png" /></a>
+    <a><img src="../IMG/ww1/ww1menu/RussianEmpire.png" /></a>
+    <a href="../HTML/GermanyWW1.html" target="_blank"><img src="../IMG/ww1/ww1menu/GERMAN EMPIRE.png" /></a>
+    <a href="../HTML/FranceWW1V.html" target="_blank"><img src="../IMG/ww1/ww1menu/France.png" /></a>
+    <a href="../HTML/USAWW1.html" target="_blank"><img src="../IMG/ww1/ww1menu/USAWW1.png" /></a>
+    <a><img src="../IMG/ww1/ww1menu/Japanese empire.png" /></a>
+</div>
+<div class="bordeyear">
+    <div class="year">1914-1918</div>
+</div>
+<script src="../JS/Audio.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wings & Steel</title>
+    <link href="../CSS/Stylos.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Sofia&display=swap" rel="stylesheet">
+</head>
+<body>
+    <aside>
+        <div class="logo">
+            <img src="../IMG/Wings & Steel LOGO-Photoroom.png"/>
+        </div>
+        <div class="sidebarEras">
+            <h2 class="subtituloBarras">ERA</h2>
+            <ul>
+                <li onclick="cargarWW1()" onmouseenter="playHoverSoundWW1()" onmouseleave="stopHoverSoundWW1()"><a href="#">WW1</a></li>
+                <li onclick="cargarWW2()" onmouseenter="playHoverSoundWW2()" onmouseleave="stopHoverSoundWW2()"><a href="#">WW2</a></li>
+                <li onclick="cargarcoldwar()" onmouseenter="playHoverSoundColdWar()" onmouseleave="stopHoverSoundColdWar()"><a href="#">Cold War</a></li>
+                <li onclick="cargarmodern()" onmouseenter="playHoverSoundModern()" onmouseleave="stopHoverSoundModern()"><a href="#">Modern</a></li>
+                <li onclick="cargarukraine()" onmouseenter="playHoverSoundUkraine()" onmouseleave="stopHoverSoundUkraine()"><a href="#">Ukraine</a></li>
+            </ul>
+            <audio id="WW1Hover" src="../Audio/WW1Hover.mp3" preload="auto"></audio>
+            <audio id="WW2Hover" src="../Audio/WW2Hover.mp3" preload="auto"></audio>
+            <audio id="ColdWarHover" src="../Audio/ColdWarHover.mp3" preload="auto"></audio>
+            <audio id="ModernHover" src="../Audio/ModernHover.mp3" preload="auto"></audio>
+            <audio id="UkraineHover" src="../Audio/UkraineHover.mp3" preload="auto"></audio>
+        </div>
+        <div class="sidebarPaises">
+            <h2 class="subtituloBarras">Nations</h2>
+            <ul class="countryList">
+                <li onclick="cargarGermany()" onmouseenter="playHoverSoundGermany()" onmouseleave="stopHoverSoundGermany()">
+                    <img src="../IMG/bandera-alemania.png" alt="Germany"/>
+                    <a href="#">Germany</a>
+                </li>
+                <li onclick="cargarRussia()" onmouseenter="playHoverSoundRussia()" onmouseleave="stopHoverSoundRussia()">
+                    <img src="../IMG/Flag_of_Russia.png" alt="Russia"/>
+                    <a href="#">Russia</a>
+                </li>
+                <li onclick="cargarUSA()" onmouseenter="playHoverSoundUSA()" onmouseleave="stopHoverSoundUSA()">
+                    <img src="../IMG/Flag_of_the_United_States.svg.png" alt="United States"/>
+                    <a href="#">U.S.A</a>
+                </li>
+                <li onclick="cargarJapan()" onmouseenter="playHoverSoundJapan()" onmouseleave="stopHoverSoundJapan()">
+                    <img src="../IMG/Flag_of_Japan.png" alt="Japan"/>
+                    <a href="#">Japan</a>
+                </li>
+                <li onclick="cargarFrance()" onmouseenter="playHoverSoundFrance()" onmouseleave="stopHoverSoundFrance()">
+                    <img src="../IMG/Flag_of_France.png" alt="France"/>
+                    <a href="#">France</a>
+                </li>
+                <li onclick="cargarUK()" onmouseenter="playHoverSoundUK()" onmouseleave="stopHoverSoundUK()">
+                    <img src="../IMG/Flag_of_the_United_Kingdom_(1-2).svg.png" alt="United Kingdom"/>
+                    <a href="#">U.K</a>
+                </li>
+            </ul>
+            <audio id="GermanyHover" src="../Audio/GermanyHover.mp3" preload="auto"></audio>
+            <audio id="RussiaHover" src="../Audio/RussiaHover.mp3" preload="auto"></audio>
+            <audio id="USAHover" src="../Audio/USAHover.mp3" preload="auto"></audio>
+            <audio id="JapanHover" src="../Audio/JapanHover.mp3" preload="auto"></audio>
+            <audio id="FranceHover" src="../Audio/FranceHover.mp3" preload="auto"></audio>
+            <audio id="UKHover" src="../Audio/UKHover.mp3" preload="auto"></audio>
+        </div>
+    </aside>
+    <header>
+        <ul class="ulHeader">
+            <li><h1 class='Titulo orbitron'>Wings & Steel</h1></li>
+            <li class="marginalv"><a href="../HTML/Index.html">Home</a></li>
+            <li class="marginalv"><a href="#">Maps</a></li>
+            <li class="marginalv"><a href="#">Trivia</a></li>
+            <li class="marginalv"><a href="#">About Us</a></li>
+        </ul>
+    </header>
+    <main>
+        <iframe id="iframeContent" style="display: none;" frameborder="0"></iframe>
+    </main>
+    <script src="../JS/Audio.js"></script>
+    <script src="../JS/App.js"></script>
+</body>
+</html>

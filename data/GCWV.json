@@ -1,0 +1,159 @@
+[
+    {
+        "id": "leopard1",
+        "tipo": "tanque",
+        "imagen": "/GermanColdWarIMG/Leopard1.jpg",
+        "nombre": "Leopard 1",
+        "descripcion": "German Main Battle Tank",
+        "detalles": {
+            "Year": 1965,
+            "Cannon": "105mm L7",
+            "Front Armor": "120mm",
+            "Max speed": "65km/h"
+        }
+    },
+    {
+        "id": "leopard1A5",
+        "tipo": "tanque",
+        "imagen": "/GermanColdWarIMG/Leopard1A5.jpg",
+        "nombre": "Leopard 1A5",
+        "descripcion": "German Main Battle Tank",
+        "detalles": {
+            "Year": 1985,
+            "Cannon": "105mm L7",
+            "Front Armor": "150mm",
+            "Max speed": "65km/h"
+        }
+    },
+    {
+        "id": "t55",
+        "tipo": "tanque",
+        "imagen": "/GermanColdWarIMG/T55.jpg",
+        "nombre": "T-55",
+        "descripcion": "Main Battle Tank",
+        "detalles": {
+            "Year": 1947,
+            "Cannon": "100mm D-10T",
+            "Front Armor": "200mm",
+            "Max speed": "50km/h"
+        }
+    },
+    {
+        "id": "t62",
+        "tipo": "tanque",
+        "imagen": "/GermanColdWarIMG/T62.jpg",
+        "nombre": "T-62",
+        "descripcion": "Main Battle Tank",
+        "detalles": {
+            "Year": 1961,
+            "Cannon": "115mm U-5TS",
+            "Front Armor": "250mm",
+            "Max speed": "50km/h"
+        }
+    },
+    {
+        "id": "leopard2",
+        "tipo": "tanque",
+        "imagen": "/GermanColdWarIMG/Leopard2.jpeg",
+        "nombre": "Leopard 2",
+        "descripcion": "German Main BattleTank",
+        "detalles": {
+            "Year": 1979,
+            "Cannon": "120mm L44",
+            "Front Armor": "300mm",
+            "Max speed": "70km/h"
+        }
+    },
+    {
+        "id": "leopard2a4",
+        "tipo": "tanque",
+        "imagen": "/GermanColdWarIMG/Leopard2A4.jpg",
+        "nombre": "Leopard 2A4",
+        "descripcion": "German Main Battle Tank",
+        "detalles": {
+            "Year": 1985,
+            "Cannon": "120mm L44",
+            "Front Armor": "350mm",
+            "Max speed": "70km/h"
+        }
+
+    },
+    {
+        "id": "t72",
+        "tipo": "tanque",
+        "imagen": "/GermanColdWarIMG/T72.jpg",
+        "nombre": "T-72",
+        "descripcion": "Main Battle Tank",
+        "detalles": {
+            "Year": 1969,
+            "Cannon": "125mm 2A46",
+            "Front Armor": "400mm",
+            "Max speed": "60km/h"
+        }
+    },
+    {
+        "id": "Strela10m",
+        "tipo": "tanque",
+        "imagen": "/GermanColdWarIMG/Strela10M.jpg",
+        "nombre": "Strela-10M",
+        "descripcion": "Self-Propelled Anti-Air",
+        "detalles": {
+            "Year": 1976,
+            "Cannon": "9K35 Strela-10",
+            "Front Armor": "20mm",
+            "Max speed": "60km/h"
+        }
+    },
+    {
+        "id": "f4fkws",
+        "tipo": "avion",
+        "imagen": "/GermanColdWarIMG/F4F-KWS.jpg",
+        "nombre": "F-4F KWS",
+        "descripcion": "German Fighter Jet",
+        "detalles": {
+            "Year": 1970,
+            "Cannon": "M61 Vulcan",
+            "Payload": "3,000kg",
+            "Max speed": "2400km/h"
+        }
+    },
+    {
+        "id": "Alphajet",
+        "tipo": "avion",
+        "imagen": "/GermanColdWarIMG/AlphaJet.jpg",
+        "nombre": "Alpha Jet",
+        "descripcion": "Light Attack Aircraft",
+        "detalles": {
+            "Year": 1973,
+            "Cannon": "2*30mm DEFA 553",
+            "Payload": "1,500kg",
+            "Max speed": "1,100km/h"
+        }
+    },
+    {
+        "id": "mig21",
+        "tipo": "avion",
+        "imagen": "/GermanColdWarIMG/MiG-21.jpg",
+        "nombre": "MiG-21",
+        "descripcion": "Fighter Jet",
+        "detalles": {
+            "Year": 1959,
+            "Cannon": "1*23mm GSh-23",
+            "Payload": "1,000kg",
+            "Max speed": "2,175km/h"
+        }
+    },
+    {
+        "id": "mig29",
+        "tipo": "avion",
+        "imagen": "/GermanColdWarIMG/MiG-29.png",
+        "nombre": "MiG-29",
+        "descripcion": "Multirole Fighter",
+        "detalles": {
+            "Year": 1982,
+            "Cannon": "1*30mm GSh-30-1",
+            "Payload": "4,500kg",
+            "Max speed": "2,400km/h"
+        }
+    }
+]
