@@ -2,7 +2,7 @@
     {
         "id": "A7V",
         "tipo": "tanque",
-        "imagen": "/GermanWW1IMG/A7V.jpeg",
+        "imagen": "../GermanWW1IMG/A7V.jpeg",
         "nombre": "A7V",
         "descripcion": "Germany's First Tank",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "beutepanzer IV",
         "tipo": "tanque",
-        "imagen": "/GermanWW1IMG/Beutepanzer IV.jpg",
+        "imagen": "../GermanWW1IMG/Beutepanzer IV.jpg",
         "nombre": "Beutepanzer IV",
         "descripcion": "Captured British Tank",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "sturmpanzerwagen",
         "tipo": "tanque",
-        "imagen": "/GermanWW1IMG/SturmpanzerWagen.jpg",
+        "imagen": "../GermanWW1IMG/SturmpanzerWagen.jpg",
         "nombre": "SturmpanzerWagen",
         "descripcion": "Light Tank",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "garford-beute",
         "tipo": "tanque",
-        "imagen": "/GermanWW1IMG/garfordbeute.jpg",
+        "imagen": "../GermanWW1IMG/garfordbeute.jpg",
         "nombre": "Garford-Beute",
         "descripcion": "Captured Russian A-C",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "fokker eindecker",
         "tipo": "avion",
-        "imagen": "/GermanWW1IMG/fokkereindecker.png",
+        "imagen": "../GermanWW1IMG/fokkereindecker.png",
         "nombre": "Fokker Eindecker",
         "descripcion": "Germany's First Fighter",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "albatrosdv",
         "tipo": "avion",
-        "imagen": "/GermanWW1IMG/albatrosdv.jpg",
+        "imagen": "../GermanWW1IMG/albatrosdv.jpg",
         "nombre": "Albatros D.V",
         "descripcion": "Fighter Aircraft",
         "detalles": {
@@ -80,7 +80,7 @@
     {
         "id": "fokkerDR1",
         "tipo": "avion",
-        "imagen": "/GermanWW1IMG/fokkerdr1.jpg",
+        "imagen": "../GermanWW1IMG/fokkerdr1.jpg",
         "nombre": "Fokker DR.1",
         "descripcion": "Famous Triplane Fighter",
         "detalles": {
@@ -93,7 +93,7 @@
     {
         "id": "fokkerdVII",
         "tipo": "avion",
-        "imagen": "/GermanWW1IMG/fokkerdVII.png",
+        "imagen": "../GermanWW1IMG/fokkerdVII.png",
         "nombre": "Fokker D.VII",
         "descripcion": "Advanced Fighter Aircraft",
         "detalles": {
@@ -106,7 +106,7 @@
     {
         "id": "gothagv",
         "tipo": "avion",
-        "imagen": "/GermanWW1IMG/gothaGV.jpg",
+        "imagen": "../GermanWW1IMG/gothaGV.jpg",
         "nombre": "Gotha G.V",
         "descripcion": "Heavy Bomber",
         "detalles": {
@@ -119,7 +119,7 @@
     {
         "id": "zeppelins",
         "tipo": "avion",
-        "imagen": "/GermanWW1IMG/Zeppelin.jpg",
+        "imagen": "../GermanWW1IMG/Zeppelin.jpg",
         "nombre": "Zeppelin",
         "descripcion": "Airship Bomber",
         "detalles": {
@@ -132,7 +132,7 @@
     {
         "id": "zepellin-staaken",
         "tipo": "avion",
-        "imagen": "/GermanWW1IMG/zeppelinstaaken.jpg",
+        "imagen": "../GermanWW1IMG/zeppelinstaaken.jpg",
         "nombre": "Zeppelin-Staaken",
         "descripcion": "Giant Bomber",
         "detalles": {

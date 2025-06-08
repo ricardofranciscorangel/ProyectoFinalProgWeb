@@ -2,7 +2,7 @@
     {
         "id": "leopard2A5",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Leopard-2A5.png",
+        "imagen": "../GermanModernIMG/Leopard-2A5.png",
         "nombre": "Leopard 2A5",
         "descripcion": "German Main Battletank",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "leopard2A6",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Leopard2A6.png",
+        "imagen": "../GermanModernIMG/Leopard2A6.png",
         "nombre": "Leopard 2A6",
         "descripcion": "German Main Battletank",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "leopard2A7",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Leopard2A7.png",
+        "imagen": "../GermanModernIMG/Leopard2A7.png",
         "nombre": "Leopard 2A7",
         "descripcion": "German Main Battletank",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "leopard2A8",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Leopard2A8.jpg",
+        "imagen": "../GermanModernIMG/Leopard2A8.jpg",
         "nombre": "Leopard 2A8",
         "descripcion": "German Main Battletank",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "pumaModern",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/PumaIFV.png",
+        "imagen": "../GermanModernIMG/PumaIFV.png",
         "nombre": "Puma",
         "descripcion": "Infantry Fighting Vehicule",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "marder1A5",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Marder1 A5A1.jpg",
+        "imagen": "../GermanModernIMG/Marder1 A5A1.jpg",
         "nombre": "Marder 1A5",
         "descripcion": "Infantry Fighting Vehicule",
         "detalles": {
@@ -80,7 +80,7 @@
     {
         "id": "wiesel1A2",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Wiesel1A2.png",
+        "imagen": "../GermanModernIMG/Wiesel1A2.png",
         "nombre": "Wiesel 1A2",
         "descripcion": "Light Tank Destroyer",
         "detalles": {
@@ -93,7 +93,7 @@
     {
         "id": "ozelot",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Ozelot.png",
+        "imagen": "../GermanModernIMG/Ozelot.png",
         "nombre": "Ozelot",
         "descripcion": "Self-Propeled Anti-Air",
         "detalles": {
@@ -106,7 +106,7 @@
     {
         "id": "panzerhaubitze 2000",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/PzH 2000.jpeg",
+        "imagen": "../GermanModernIMG/PzH 2000.jpeg",
         "nombre": "PzH 2000",
         "descripcion": "Self-Propeled Artillery",
         "detalles": {
@@ -119,7 +119,7 @@
     {
         "id": "flakrakrad",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/FlakRakRad.JPG",
+        "imagen": "../GermanModernIMG/FlakRakRad.JPG",
         "nombre": "FlakRakRad",
         "descripcion": "Self-Propeled Anti-Air",
         "detalles": {
@@ -132,7 +132,7 @@
     {
         "id": "boxer mgs",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Boxer MGS.jpg",
+        "imagen": "../GermanModernIMG/Boxer MGS.jpg",
         "nombre": "Boxer MGS",
         "descripcion": "Light Tank",
         "detalles": {
@@ -145,7 +145,7 @@
     {
         "id": "panther kf-51",
         "tipo": "tanque",
-        "imagen": "/GermanModernIMG/Panther KF-51.png",
+        "imagen": "../GermanModernIMG/Panther KF-51.png",
         "nombre": "Panther KF-51",
         "descripcion": "Future Main Battle Tank",
         "detalles": {
@@ -158,7 +158,7 @@
     {
         "id": "EF-2000",
         "tipo": "avion",
-        "imagen": "/GermanModernIMG/EF-2000.jpg",
+        "imagen": "../GermanModernIMG/EF-2000.jpg",
         "nombre": "Eurofighter Typhoon",
         "descripcion": "Air Superiority Fighter",
         "detalles": {
@@ -171,7 +171,7 @@
     {
         "id": "airbus a400m",
         "tipo": "avion",
-        "imagen": "/GermanModernIMG/Airbusa400m.jpg",
+        "imagen": "../GermanModernIMG/Airbusa400m.jpg",
         "nombre": "Airbus A400M Atlas",
         "descripcion": "Transport Plane",
         "detalles": {
@@ -184,7 +184,7 @@
     {
         "id": "tornado ids",
         "tipo": "avion",
-        "imagen": "/GermanModernIMG/Tornado IDS.jpg",
+        "imagen": "../GermanModernIMG/Tornado IDS.jpg",
         "nombre": "Tornado IDS ASSTA1",
         "descripcion": "Strike Aircraft",
         "detalles": {

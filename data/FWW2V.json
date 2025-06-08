@@ -2,7 +2,7 @@
     {
         "id": "CharB1bis",
         "tipo": "tanque",
-        "imagen": "/FranceWW2IMG/CharB1bis.jpg",
+        "imagen": "../FranceWW2IMG/CharB1bis.jpg",
         "nombre": "Char B1 bis",
         "descripcion": "Heavy tank for assaults.",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "SomuaS35",
         "tipo": "tanque",
-        "imagen": "/FranceWW2IMG/SomuaS35.jpg",
+        "imagen": "../FranceWW2IMG/SomuaS35.jpg",
         "nombre": "Somua S35",
         "descripcion": "Main cavalry tank.",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "HotchkissH35",
         "tipo": "tanque",
-        "imagen": "/FranceWW2IMG/HotchkissH35.jpg",
+        "imagen": "../FranceWW2IMG/HotchkissH35.jpg",
         "nombre": "Hotchkiss H35",
         "descripcion": "Light tank for infantry support.",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "RenaultR35",
         "tipo": "tanque",
-        "imagen": "/FranceWW2IMG/RenaultR35.jpg",
+        "imagen": "../FranceWW2IMG/RenaultR35.jpg",
         "nombre": "Renault R35",
         "descripcion": "Light tank for infantry support.",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "FCM36",
         "tipo": "tanque",
-        "imagen": "/FranceWW2IMG/FCM36.jpg",
+        "imagen": "../FranceWW2IMG/FCM36.jpg",
         "nombre": "FCM 36",
         "descripcion": "Light tank with sloped armor.",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "DewoitineD.520",
         "tipo": "avion",
-        "imagen": "/FranceWW2IMG/D520.jpg",
+        "imagen": "../FranceWW2IMG/D520.jpg",
         "nombre": "Dewoitine D.520",
         "descripcion": "Main French fighter.",
         "detalles": {
@@ -80,7 +80,7 @@
     {
         "id": "BlochMB.152",
         "tipo": "avion",
-        "imagen": "/FranceWW2IMG/MB152.jpg",
+        "imagen": "../FranceWW2IMG/MB152.jpg",
         "nombre": "Bloch MB.152",
         "descripcion": "Fighter aircraft.",
         "detalles": {
@@ -93,7 +93,7 @@
     {
         "id": "MoraneSaulnierMS.406",
         "tipo": "avion",
-        "imagen": "/FranceWW2IMG/MS406.jpg",
+        "imagen": "../FranceWW2IMG/MS406.jpg",
         "nombre": "Morane Saulnier MS.406",
         "descripcion": "French fighter.",
         "detalles": {
@@ -106,7 +106,7 @@
     {
         "id": "LioréetOlivierLeO451",
         "tipo": "avion",
-        "imagen": "/FranceWW2IMG/LeO451.jpg",
+        "imagen": "../FranceWW2IMG/LeO451.jpg",
         "nombre": "Lioré et Olivier LeO 451",
         "descripcion": "Medium bomber.",
         "detalles": {
@@ -119,7 +119,7 @@
     {
         "id": "Potez631",
         "tipo": "avion",
-        "imagen": "/FranceWW2IMG/Potez631.jpg",
+        "imagen": "../FranceWW2IMG/Potez631.jpg",
         "nombre": "Potez 631",
         "descripcion": "Twin-engine heavy fighter.",
         "detalles": {

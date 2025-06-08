@@ -2,7 +2,7 @@
     {
         "id": "m46patton",
         "tipo": "tanque",
-        "imagen": "/USAColdWarIMG/m46patton.jpg",
+        "imagen": "../USAColdWarIMG/m46patton.jpg",
         "nombre": "M46 Patton",
         "descripcion": "Medium Tank",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "m47patton",
         "tipo": "tanque",
-        "imagen": "/USAColdWarIMG/m47patton.jpg",
+        "imagen": "../USAColdWarIMG/m47patton.jpg",
         "nombre": "M47 Patton",
         "descripcion": "Medium Tank",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "m48patton",
         "tipo": "tanque",
-        "imagen": "/USAColdWarIMG/m48patton.jpg",
+        "imagen": "../USAColdWarIMG/m48patton.jpg",
         "nombre": "M48 Patton",
         "descripcion": "Main Battle Tank",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "m60patton",
         "tipo": "tanque",
-        "imagen": "/USAColdWarIMG/m60patton.jpg",
+        "imagen": "../USAColdWarIMG/m60patton.jpg",
         "nombre": "M60 Patton",
         "descripcion": "Main Battle Tank",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "m551sheridan",
         "tipo": "tanque",
-        "imagen": "/USAColdWarIMG/m551sheridan.jpg",
+        "imagen": "../USAColdWarIMG/m551sheridan.jpg",
         "nombre": "M551 Sheridan",
         "descripcion": "Light Tank",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "f86sabre",
         "tipo": "avion",
-        "imagen": "/USAColdWarIMG/f86sabre.jpg",
+        "imagen": "../USAColdWarIMG/f86sabre.jpg",
         "nombre": "F-86 Sabre",
         "descripcion": "Fighter Jet",
         "detalles": {
@@ -80,7 +80,7 @@
     {
         "id": "f4phantomii",
         "tipo": "avion",
-        "imagen": "/USAColdWarIMG/f4phantomii.jpg",
+        "imagen": "../USAColdWarIMG/f4phantomii.jpg",
         "nombre": "F-4 Phantom II",
         "descripcion": "Multirole Fighter",
         "detalles": {
@@ -93,7 +93,7 @@
     {
         "id": "b52stratofortress",
         "tipo": "avion",
-        "imagen": "/USAColdWarIMG/b52stratofortress.jpg",
+        "imagen": "../USAColdWarIMG/b52stratofortress.jpg",
         "nombre": "B-52 Stratofortress",
         "descripcion": "Strategic Bomber",
         "detalles": {
@@ -106,7 +106,7 @@
     {
         "id": "sr71blackbird",
         "tipo": "avion",
-        "imagen": "/USAColdWarIMG/sr71blackbird.jpg",
+        "imagen": "../USAColdWarIMG/sr71blackbird.jpg",
         "nombre": "SR-71 Blackbird",
         "descripcion": "Reconnaissance Aircraft",
         "detalles": {
@@ -119,7 +119,7 @@
     {
         "id": "a4skyhawk",
         "tipo": "avion",
-        "imagen": "/USAColdWarIMG/a4skyhawk.jpg",
+        "imagen": "../USAColdWarIMG/a4skyhawk.jpg",
         "nombre": "A-4 Skyhawk",
         "descripcion": "Attack Aircraft",
         "detalles": {

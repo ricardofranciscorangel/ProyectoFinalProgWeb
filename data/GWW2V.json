@@ -2,7 +2,7 @@
     {
         "id": "marder3",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/marder3.jpg",
+        "imagen": "../GermanWW2IMG/marder3.jpg",
         "nombre": "Marder III",
         "descripcion": "Tank Destroyer",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "stug3",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/stug3.jpg",
+        "imagen": "../GermanWW2IMG/stug3.jpg",
         "nombre": "StuG III",
         "descripcion": "Assault Gun",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "sdkfz62",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/sdkfz62.png",
+        "imagen": "../GermanWW2IMG/sdkfz62.png",
         "nombre": "Sd.Kfz. 6/2",
         "descripcion": "Half-Track Anti-Aircraft",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "Panzer IIIM",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/PanzerIIIM.jpg",
+        "imagen": "../GermanWW2IMG/PanzerIIIM.jpg",
         "nombre": "Panzer III M",
         "descripcion": "Medium Tank",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "Panzer IVH",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/PanzerIVH.png",
+        "imagen": "../GermanWW2IMG/PanzerIVH.png",
         "nombre": "Panzer IV H",
         "descripcion": "Medium Tank",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "puma",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/puma.jpeg",
+        "imagen": "../GermanWW2IMG/puma.jpeg",
         "nombre": "Puma",
         "descripcion": "Reconnaissance Vehicle",
         "detalles": {
@@ -80,7 +80,7 @@
     {
         "id": "88mmflak36",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/flak36.png",
+        "imagen": "../GermanWW2IMG/flak36.png",
         "nombre": "88mm Flak 36",
         "descripcion": "Anti-Aircraft Gun",
         "detalles": {
@@ -93,7 +93,7 @@
     {
         "id": "jagdpanzerIV",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/jagdpanzerIV.png",
+        "imagen": "../GermanWW2IMG/jagdpanzerIV.png",
         "nombre": "Jagdpanzer IV",
         "descripcion": "Tank Destroyer",
         "detalles": {
@@ -106,7 +106,7 @@
     {
         "id": "ostwind",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/ostwind.jpg",
+        "imagen": "../GermanWW2IMG/ostwind.jpg",
         "nombre": "Ostwind",
         "descripcion": "Self-Propelled Anti-Air",
         "detalles": {
@@ -119,7 +119,7 @@
     {
         "id": "tigerI",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/tigerI.jpg",
+        "imagen": "../GermanWW2IMG/tigerI.jpg",
         "nombre": "Tiger I",
         "descripcion": "Heavy Tank",
         "detalles": {
@@ -132,7 +132,7 @@
     {
         "id": "tigerII",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/tigerII.jpg",
+        "imagen": "../GermanWW2IMG/tigerII.jpg",
         "nombre": "Tiger II",
         "descripcion": "Heavy Tank",
         "detalles": {
@@ -145,7 +145,7 @@
     {
         "id": "pantherG",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/pantherg.jpg",
+        "imagen": "../GermanWW2IMG/pantherg.jpg",
         "nombre": "Panther G",
         "descripcion": "Medium Tank",
         "detalles": {
@@ -158,7 +158,7 @@
     {
         "id": "elefant",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/elefant.jpg",
+        "imagen": "../GermanWW2IMG/elefant.jpg",
         "nombre": "Elefant",
         "descripcion": "Tank Destroyer",
         "detalles": {
@@ -171,7 +171,7 @@
     {
         "id": "jagdpanther",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/jagdpanther.png",
+        "imagen": "../GermanWW2IMG/jagdpanther.png",
         "nombre": "Jagdpanther",
         "descripcion": "Tank Destroyer",
         "detalles": {
@@ -184,7 +184,7 @@
     {
         "id": "jagdtiger",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/jagdtiger.jpg",
+        "imagen": "../GermanWW2IMG/jagdtiger.jpg",
         "nombre": "Jagdtiger",
         "descripcion": "Tank Destroyer",
         "detalles": {
@@ -197,7 +197,7 @@
     {
         "id": "pantherf",
         "tipo": "tanque",
-        "imagen": "/GermanWW2IMG/pantherf.png",
+        "imagen": "../GermanWW2IMG/pantherf.png",
         "nombre": "Panther F",
         "descripcion": "Medium Tank",
         "detalles": {
@@ -210,7 +210,7 @@
     {
         "id": "bf109f4",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/bf109f4.jpg",
+        "imagen": "../GermanWW2IMG/bf109f4.jpg",
         "nombre": "Bf 109 F-4",
         "descripcion": "Fighter Aircraft",
         "detalles": {
@@ -223,7 +223,7 @@
     {
         "id": "bf109k4",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/bf109k4.jpg",
+        "imagen": "../GermanWW2IMG/bf109k4.jpg",
         "nombre": "Bf 109 K-4",
         "descripcion": "Fighter Aircraft",
         "detalles": {
@@ -236,7 +236,7 @@
     {
         "id": "fw190a8",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/fw190a8.png",
+        "imagen": "../GermanWW2IMG/fw190a8.png",
         "nombre": "Fw 190 A-8",
         "descripcion": "Fighter Aircraft",
         "detalles": {
@@ -249,7 +249,7 @@
     {
         "id": "he111h6",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/he111h6.png",
+        "imagen": "../GermanWW2IMG/he111h6.png",
         "nombre": "He 111 H-6",
         "descripcion": "Bomber Aircraft",
         "detalles": {
@@ -262,7 +262,7 @@
     {
         "id": "ju87g2",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/ju87g2.jpg",
+        "imagen": "../GermanWW2IMG/ju87g2.jpg",
         "nombre": "Ju 87 G-2 Stuka",
         "descripcion": "Ground Attack Aircraft",
         "detalles": {
@@ -275,7 +275,7 @@
     {
         "id": "fw190d12",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/fw190d12.jpg",
+        "imagen": "../GermanWW2IMG/fw190d12.jpg",
         "nombre": "Fw 190 D-12",
         "descripcion": "Fighter Aircraft",
         "detalles": {
@@ -288,7 +288,7 @@
     {
         "id": "ta152h1",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/ta152h1.jpg",
+        "imagen": "../GermanWW2IMG/ta152h1.jpg",
         "nombre": "Ta 152 H-1",
         "descripcion": "Fighter Aircraft",
         "detalles": {
@@ -301,7 +301,7 @@
     {
         "id": "he162a2",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/he162a2.jpg",
+        "imagen": "../GermanWW2IMG/he162a2.jpg",
         "nombre": "He 162 A-2 Salamander",
         "descripcion": "Jet Fighter Aircraft",
         "detalles": {
@@ -314,7 +314,7 @@
     {
         "id": "ho229",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/ho229.png",
+        "imagen": "../GermanWW2IMG/ho229.png",
         "nombre": "Horten Ho 229",
         "descripcion": "Jet Fighter Aircraft",
         "detalles": {
@@ -327,7 +327,7 @@
     {
         "id": "me262a1",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/me262a1.jpg",
+        "imagen": "../GermanWW2IMG/me262a1.jpg",
         "nombre": "Me 262 A-1",
         "descripcion": "Jet Fighter Aircraft",
         "detalles": {
@@ -340,7 +340,7 @@
     {
         "id": "me163",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/me163.jpeg",
+        "imagen": "../GermanWW2IMG/me163.jpeg",
         "nombre": "Me 163 Komet",
         "descripcion": "Rocket-Powered Fighter",
         "detalles": {
@@ -353,7 +353,7 @@
     {
         "id": "ar234b2",
         "tipo": "avion",
-        "imagen": "/GermanWW2IMG/ar234b2.jpg",
+        "imagen": "../GermanWW2IMG/ar234b2.jpg",
         "nombre": "Ar 234 B-2 Blitz",
         "descripcion": "Jet Bomber Aircraft",
         "detalles": {

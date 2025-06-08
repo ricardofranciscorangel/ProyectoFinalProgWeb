@@ -2,7 +2,7 @@
     {
         "id": "leopard1",
         "tipo": "tanque",
-        "imagen": "/GermanColdWarIMG/Leopard1.jpg",
+        "imagen": "../GermanColdWarIMG/Leopard1.jpg",
         "nombre": "Leopard 1",
         "descripcion": "German Main Battle Tank",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "leopard1A5",
         "tipo": "tanque",
-        "imagen": "/GermanColdWarIMG/Leopard1A5.jpg",
+        "imagen": "../GermanColdWarIMG/Leopard1A5.jpg",
         "nombre": "Leopard 1A5",
         "descripcion": "German Main Battle Tank",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "t55",
         "tipo": "tanque",
-        "imagen": "/GermanColdWarIMG/T55.jpg",
+        "imagen": "../GermanColdWarIMG/T55.jpg",
         "nombre": "T-55",
         "descripcion": "Main Battle Tank",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "t62",
         "tipo": "tanque",
-        "imagen": "/GermanColdWarIMG/T62.jpg",
+        "imagen": "../GermanColdWarIMG/T62.jpg",
         "nombre": "T-62",
         "descripcion": "Main Battle Tank",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "leopard2",
         "tipo": "tanque",
-        "imagen": "/GermanColdWarIMG/Leopard2.jpeg",
+        "imagen": "../GermanColdWarIMG/Leopard2.jpeg",
         "nombre": "Leopard 2",
         "descripcion": "German Main BattleTank",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "leopard2a4",
         "tipo": "tanque",
-        "imagen": "/GermanColdWarIMG/Leopard2A4.jpg",
+        "imagen": "../GermanColdWarIMG/Leopard2A4.jpg",
         "nombre": "Leopard 2A4",
         "descripcion": "German Main Battle Tank",
         "detalles": {
@@ -81,7 +81,7 @@
     {
         "id": "t72",
         "tipo": "tanque",
-        "imagen": "/GermanColdWarIMG/T72.jpg",
+        "imagen": "../GermanColdWarIMG/T72.jpg",
         "nombre": "T-72",
         "descripcion": "Main Battle Tank",
         "detalles": {
@@ -94,7 +94,7 @@
     {
         "id": "Strela10m",
         "tipo": "tanque",
-        "imagen": "/GermanColdWarIMG/Strela10M.jpg",
+        "imagen": "../GermanColdWarIMG/Strela10M.jpg",
         "nombre": "Strela-10M",
         "descripcion": "Self-Propelled Anti-Air",
         "detalles": {
@@ -107,7 +107,7 @@
     {
         "id": "f4fkws",
         "tipo": "avion",
-        "imagen": "/GermanColdWarIMG/F4F-KWS.jpg",
+        "imagen": "../GermanColdWarIMG/F4F-KWS.jpg",
         "nombre": "F-4F KWS",
         "descripcion": "German Fighter Jet",
         "detalles": {
@@ -120,7 +120,7 @@
     {
         "id": "Alphajet",
         "tipo": "avion",
-        "imagen": "/GermanColdWarIMG/AlphaJet.jpg",
+        "imagen": "../GermanColdWarIMG/AlphaJet.jpg",
         "nombre": "Alpha Jet",
         "descripcion": "Light Attack Aircraft",
         "detalles": {
@@ -133,7 +133,7 @@
     {
         "id": "mig21",
         "tipo": "avion",
-        "imagen": "/GermanColdWarIMG/MiG-21.jpg",
+        "imagen": "../GermanColdWarIMG/MiG-21.jpg",
         "nombre": "MiG-21",
         "descripcion": "Fighter Jet",
         "detalles": {
@@ -146,7 +146,7 @@
     {
         "id": "mig29",
         "tipo": "avion",
-        "imagen": "/GermanColdWarIMG/MiG-29.png",
+        "imagen": "../GermanColdWarIMG/MiG-29.png",
         "nombre": "MiG-29",
         "descripcion": "Multirole Fighter",
         "detalles": {

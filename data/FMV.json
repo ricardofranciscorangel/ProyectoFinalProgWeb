@@ -2,7 +2,7 @@
     {
         "id": "LeclercS2",
         "tipo": "tanque",
-        "imagen": "/FranceModernIMG/LeclercS2.jpg",
+        "imagen": "../FranceModernIMG/LeclercS2.jpg",
         "nombre": "Leclerc S2",
         "descripcion": "French Main Battle Tank",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "VBCI",
         "tipo": "tanque",
-        "imagen": "/FranceModernIMG/VBCI.jpg",
+        "imagen": "../FranceModernIMG/VBCI.jpg",
         "nombre": "VBCI",
         "descripcion": "French Infantry Fighting Vehicle",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "EBRCJaguar",
         "tipo": "tanque",
-        "imagen": "/FranceModernIMG/EBRCJaguar.jpg",
+        "imagen": "../FranceModernIMG/EBRCJaguar.jpg",
         "nombre": "EBRC Jaguar",
         "descripcion": "Armored Recon Vehicle",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "DassaultRafaleC",
         "tipo": "avion",
-        "imagen": "/FranceModernIMG/DassaultRafaleC.jpg",
+        "imagen": "../FranceModernIMG/DassaultRafaleC.jpg",
         "nombre": "Dassault Rafale C",
         "descripcion": "French Multirole Fighter",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "Mirage2000D",
         "tipo": "avion",
-        "imagen": "/FranceModernIMG/Mirage2000D.jpg",
+        "imagen": "../FranceModernIMG/Mirage2000D.jpg",
         "nombre": "Dassault Mirage 2000D",
         "descripcion": "French Strike Fighter",
         "detalles": {

@@ -2,7 +2,7 @@
     {
         "id": "m4sherman",
         "tipo": "tanque",
-        "imagen": "/USAWW2IMG/m4sherman.jpg",
+        "imagen": "../USAWW2IMG/m4sherman.jpg",
         "nombre": "M4 Sherman",
         "descripcion": "Medium Tank",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "m3lee",
         "tipo": "tanque",
-        "imagen": "/USAWW2IMG/m3lee.jpg",
+        "imagen": "../USAWW2IMG/m3lee.jpg",
         "nombre": "M3 Lee",
         "descripcion": "Medium Tank",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "m26pershing",
         "tipo": "tanque",
-        "imagen": "/USAWW2IMG/m26pershing.jpg",
+        "imagen": "../USAWW2IMG/m26pershing.jpg",
         "nombre": "M26 Pershing",
         "descripcion": "Heavy Tank",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "m22locust",
         "tipo": "tanque",
-        "imagen": "/USAWW2IMG/m22locust.jpg",
+        "imagen": "../USAWW2IMG/m22locust.jpg",
         "nombre": "M22 Locust",
         "descripcion": "Light Tank",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "m18hellcat",
         "tipo": "tanque",
-        "imagen": "/USAWW2IMG/m18hellcat.jpg",
+        "imagen": "../USAWW2IMG/m18hellcat.jpg",
         "nombre": "M18 Hellcat",
         "descripcion": "Tank Destroyer",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "p51mustang",
         "tipo": "avion",
-        "imagen": "/USAWW2IMG/p51mustang.jpg",
+        "imagen": "../USAWW2IMG/p51mustang.jpg",
         "nombre": "P-51 Mustang",
         "descripcion": "Fighter Aircraft",
         "detalles": {
@@ -80,7 +80,7 @@
     {
         "id": "p47thunderbolt",
         "tipo": "avion",
-        "imagen": "/USAWW2IMG/p47thunderbolt.jpg",
+        "imagen": "../USAWW2IMG/p47thunderbolt.jpg",
         "nombre": "P-47 Thunderbolt",
         "descripcion": "Fighter-Bomber",
         "detalles": {
@@ -93,7 +93,7 @@
     {
         "id": "f6fhellcat",
         "tipo": "avion",
-        "imagen": "/USAWW2IMG/f6fhellcat.jpg",
+        "imagen": "../USAWW2IMG/f6fhellcat.jpg",
         "nombre": "F6F Hellcat",
         "descripcion": "Carrier-Based Fighter",
         "detalles": {
@@ -106,7 +106,7 @@
     {
         "id": "b17flyingfortress",
         "tipo": "avion",
-        "imagen": "/USAWW2IMG/b17flyingfortress.jpg",
+        "imagen": "../USAWW2IMG/b17flyingfortress.jpg",
         "nombre": "B-17 Flying Fortress",
         "descripcion": "Heavy Bomber",
         "detalles": {
@@ -119,7 +119,7 @@
     {
         "id": "b29superfortress",
         "tipo": "avion",
-        "imagen": "/USAWW2IMG/b29superfortress.jpg",
+        "imagen": "../USAWW2IMG/b29superfortress.jpg",
         "nombre": "B-29 Superfortress",
         "descripcion": "Heavy Nuclear Bomber",
         "detalles": {

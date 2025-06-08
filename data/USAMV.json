@@ -2,7 +2,7 @@
     {
         "id": "m1a2sepv3",
         "tipo": "tanque",
-        "imagen": "/USAModernIMG/m1a2sepv3.jpg",
+        "imagen": "../USAModernIMG/m1a2sepv3.jpg",
         "nombre": "M1A2 Abrams SEP V3",
         "descripcion": "Main Battle Tank",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "m1a1abrams",
         "tipo": "tanque",
-        "imagen": "/USAModernIMG/m1a1abrams.jpg",
+        "imagen": "../USAModernIMG/m1a1abrams.jpg",
         "nombre": "M1A1 Abrams",
         "descripcion": "Main Battle Tank",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "m1128mgs",
         "tipo": "tanque",
-        "imagen": "/USAModernIMG/m1128mgs.jpg",
+        "imagen": "../USAModernIMG/m1128mgs.jpg",
         "nombre": "M1128 Mobile Gun System",
         "descripcion": "Wheeled Tank Destroyer",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "m2a3bradley",
         "tipo": "tanque",
-        "imagen": "/USAModernIMG/m2a3bradley.jpg",
+        "imagen": "../USAModernIMG/m2a3bradley.jpg",
         "nombre": "M2A3 Bradley IFV",
         "descripcion": "Infantry Fighting Vehicle",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "xm30",
         "tipo": "tanque",
-        "imagen": "/USAModernIMG/xm30.jpg",
+        "imagen": "../USAModernIMG/xm30.jpg",
         "nombre": "XM30",
         "descripcion": "Next Generation IFV",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "f22raptor",
         "tipo": "avion",
-        "imagen": "/USAModernIMG/f22raptor.jpg",
+        "imagen": "../USAModernIMG/f22raptor.jpg",
         "nombre": "F-22 Raptor",
         "descripcion": "Stealth Fighter",
         "detalles": {
@@ -80,7 +80,7 @@
     {
         "id": "f35lightningii",
         "tipo": "avion",
-        "imagen": "/USAModernIMG/f35lightningii.jpg",
+        "imagen": "../USAModernIMG/f35lightningii.jpg",
         "nombre": "F-35 Lightning II",
         "descripcion": "Multirole Stealth Fighter",
         "detalles": {
@@ -93,7 +93,7 @@
     {
         "id": "fa18superhornet",
         "tipo": "avion",
-        "imagen": "/USAModernIMG/fa18superhornet.jpg",
+        "imagen": "../USAModernIMG/fa18superhornet.jpg",
         "nombre": "F/A-18E/F Super Hornet",
         "descripcion": "Carrier-Based Multirole Fighter",
         "detalles": {
@@ -106,7 +106,7 @@
     {
         "id": "b2spirit",
         "tipo": "avion",
-        "imagen": "/USAModernIMG/b2spirit.jpg",
+        "imagen": "../USAModernIMG/b2spirit.jpg",
         "nombre": "B-2 Spirit",
         "descripcion": "Stealth Bomber",
         "detalles": {
@@ -119,7 +119,7 @@
     {
         "id": "b21raider",
         "tipo": "avion",
-        "imagen": "/USAModernIMG/b21raider.jpg",
+        "imagen": "../USAModernIMG/b21raider.jpg",
         "nombre": "B-21 Raider",
         "descripcion": "Stealth Bomber",
         "detalles": {

@@ -2,7 +2,7 @@
     {
         "id": "RenaultFT",
         "tipo": "tanque",
-        "imagen": "/FranceWW1IMG/RenaultFT.jpg",
+        "imagen": "../FranceWW1IMG/RenaultFT.jpg",
         "nombre": "Renault FT",
         "descripcion": "Infantry support tank",
         "detalles": {
@@ -15,7 +15,7 @@
     {
         "id": "SchneiderCA1",
         "tipo": "tanque",
-        "imagen": "/FranceWW1IMG/SchneiderCA1.jpg",
+        "imagen": "../FranceWW1IMG/SchneiderCA1.jpg",
         "nombre": "Schneider CA1",
         "descripcion": "Assault tank for trenches",
         "detalles": {
@@ -28,7 +28,7 @@
     {
         "id": "SaintChamond",
         "tipo": "tanque",
-        "imagen": "/FranceWW1IMG/SaintChamond.jpg",
+        "imagen": "../FranceWW1IMG/SaintChamond.jpg",
         "nombre": "Saint Chamond",
         "descripcion": "Heavy support tank",
         "detalles": {
@@ -41,7 +41,7 @@
     {
         "id": "SPADSXIII",
         "tipo": "avion",
-        "imagen": "/FranceWW1IMG/SPADS.XIII.jpg",
+        "imagen": "../FranceWW1IMG/SPADS.XIII.jpg",
         "nombre": "SPAD S.XIII",
         "descripcion": "French biplane fighter",
         "detalles": {
@@ -54,7 +54,7 @@
     {
         "id": "Nieuport17",
         "tipo": "avion",
-        "imagen": "/FranceWW1IMG/Nieuport17.jpg",
+        "imagen": "../FranceWW1IMG/Nieuport17.jpg",
         "nombre": "Nieuport 17",
         "descripcion": "Lightweight French fighter",
         "detalles": {
@@ -67,7 +67,7 @@
     {
         "id": "Breguet14",
         "tipo": "avion",
-        "imagen": "/FranceWW1IMG/Breguet14.jpg",
+        "imagen": "../FranceWW1IMG/Breguet14.jpg",
         "nombre": "Breguet 14",
         "descripcion": "Bomber and reconnaissance",
         "detalles": {

@@ -3,7 +3,7 @@
     {
         "id": "m1917",
         "tipo": "tanque",
-        "imagen": "/USAWW1IMG/m1917.jpg",
+        "imagen": "../USAWW1IMG/m1917.jpg",
         "nombre": "M1917",
         "descripcion": "Light Tank",
         "detalles": {
@@ -16,7 +16,7 @@
     {
         "id": "steamtank1918",
         "tipo": "tanque",
-        "imagen": "/USAWW1IMG/steamtank1918.jpg",
+        "imagen": "../USAWW1IMG/steamtank1918.jpg",
         "nombre": "Steam Tank 1918",
         "descripcion": "Steam-powered Tank",
         "detalles": {
@@ -29,7 +29,7 @@
     {
         "id": "ford3tonm1918",
         "tipo": "tanque",
-        "imagen": "/USAWW1IMG/ford3tonm1918.jpg",
+        "imagen": "../USAWW1IMG/ford3tonm1918.jpg",
         "nombre": "Ford 3-Ton M1918",
         "descripcion": "Light Tank",
         "detalles": {
@@ -42,7 +42,7 @@
     {
         "id": "holtgasotank1917",
         "tipo": "tanque",
-        "imagen": "/USAWW1IMG/holtgasotank1917.jpg",
+        "imagen": "../USAWW1IMG/holtgasotank1917.jpg",
         "nombre": "Holt Gas-Electric Tank",
         "descripcion": "Gas-Electric Tank",
         "detalles": {
@@ -55,7 +55,7 @@
     {
         "id": "curtissjn4",
         "tipo": "avion",
-        "imagen": "/USAWW1IMG/curtissjn4.jpg",
+        "imagen": "../USAWW1IMG/curtissjn4.jpg",
         "nombre": "Curtiss JN-4",
         "descripcion": "Primary Trainer Aircraft",
         "detalles": {
@@ -68,7 +68,7 @@
     {
         "id": "thomasmorses4",
         "tipo": "avion",
-        "imagen": "/USAWW1IMG/thomasmorses4.jpg",
+        "imagen": "../USAWW1IMG/thomasmorses4.jpg",
         "nombre": "Thomas-Morse S-4",
         "descripcion": "Primary Trainer Aircraft",
         "detalles": {
@@ -81,7 +81,7 @@
     {
         "id": "standarde1",
         "tipo": "avion",
-        "imagen": "/USAWW1IMG/standarde1.jpg",
+        "imagen": "../USAWW1IMG/standarde1.jpg",
         "nombre": "Standard E-1",
         "descripcion": "Fighter Aircraft",
         "detalles": {
